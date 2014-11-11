@@ -1,15 +1,29 @@
-“Aeve! Aeve, are you there? Where the hell are you – we need you here!” 
+It was far too dangerous for Aeve to be driving like this. Setting aside the tiny dirt track she had been rocketing down at 70mph in the middle of the night and the fact that she had only had about two hours of sleep, she could remember the stories well; bandits roamed through these valleys waiting to pick up on the trickle of researchers that moved back and forth between villages, gangs of ex-soldiers, deserted militia and paramilitary units, alongside a company of rebel groups which had been said to camp out in the darkness, waiting. They watched the desert landscape for movement of any kind in hope of an easy late night meal.
 
-It was far too dangerous for her to drive at night. Bandits roamed through the valleys waiting to pick up on the trickle of researchers that moved back and forth between the villages, with gangs of ex-soldiers, deserted militia units and dispatches of rebel groups said to be camped out in the darkness awaiting movement of any kind in hope of an easy late night meal.
+She squinted into the depths of the track road ahead, trying to see the faces of these soldiers in the darkness, of the men and the boys that made up this invisible army. All she could see was the dirt track in the half-cone of light ahead, her red Toyota pick up had a broken headlight which she had forgotten to fix the day before. But *fuck it* she thought. *Amongst all those broken headlights and monsters out there there isn’t a single one of them that’s mad enough to mess with me tonight.”
 
-But tonight was special. A call had woken her buzzed her out of bed not ten minutes before – an unpredictable rain storm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. Without even letting the caller finish their sentence she had thrown some clothes on and within minutes she was out in the weeping gusts of rain. The flood was muscling in on the familiar clouds of dirt and now this band of red smoke which clung to everything was now in full retreat. The heat of the evening had not relented – the rain was like the milk warmed for a hot chocolate. *When was the last time I had hot chocolate?* she wondered briefly before concentrating on the whirling spits of mud in front of her.
+Tonight was special.
+
+A call had woken her buzzed her out of bed not ten minutes before – an unpredictable rain storm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. As soon as the buzzer woke her she could it in her bones. Something was different, this was what she had been waiting for. 
+
+“Aeve! Aeve, are you there? Where the hell are you – for fuck’s sake – we need you right he—” 
+
+“Hang on, what’s wrong?” she gasped sleepily, trying to hide her excitement as much as possible.
+
+“We. Need. You. Here. Right. Now! Don’t make me come over there myse—“
+
+She hung up, dressed and filled a flask with water. *This was it*, she thought. All those years of traveling and waiting and field research—had it all been leading to this very moment? Her kitchen seemed to stretch and expand under her feet; the exhilaration couldn’t quite stop the unbearable flow of tiredness that was currently seeping into her bones—before she knew it she was almost asleep at the wheel whilst great spirits of smoke trailed after her in the night.
+
+“Woooooo! Come on!” 
+
+the flood was muscling in on the familiar clouds of dirt and now this band of red smoke which clung to everything was in full retreat. Sadly the heat of the evening hadn’t fled in unison, in fact, it seemed to bond with the rain much like how milk bonds with hot chocolate in a saucepan. In her drowsy state she briefly wondered when was the last  time she had watched chocolate melt in her kitchen
 
 as Aeve wound through the track as best she could. The darkness swamped her surroundings to such a degree she beleived she was driving through a black hole at top speed; the flora and fauna whizzed passed at such speed that they were breaking down into pixels and as she hit sixth gear they broke down further into streams of blurry, fuzzy light. Her broken headlights she tried not to notice how all this natural stuff was being broken down and gobbled up by the surrounding dark. 
 
 
 - Is this Somalia? Where is this?
 
-Years of work and research had been leading up to this; if her team could catch this flash rainstorm then their work might be propelled forwards by a year, five years, a decade!
+Years of work and research had been leading up to a single flash flood; if her team could catch this storm at just the right moment then their work might be propelled forwards by a year, five years, a decade!
 
 She knew right she was driving through the crest of two sweeping mountains and they would magnify the effects of the raincloud tenfold as the rivulets would flow straight into her lab. 
 
