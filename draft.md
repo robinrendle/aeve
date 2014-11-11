@@ -1,20 +1,29 @@
-It was far too dangerous for Aeve to be driving like this. Setting aside the tiny dirt track she had been rocketing down at 70mph in the middle of the night and the fact that she had only had about two hours of sleep, she could remember the stories well; bandits roamed through these valleys waiting to pick up on the trickle of researchers that moved back and forth between villages, gangs of ex-soldiers, deserted militia and paramilitary units, alongside a company of rebel groups which had been said to camp out in the darkness, waiting. They watched the desert landscape for movement of any kind in hope of an easy late night meal.
+Setting aside the tiny dirt track she had been rocketing down at 70mph in the middle of the night and the fact that she had only had about two hours of sleep, it was far too dangerous for Aeve to be driving like this. She could remember the stories well; bandits roamed these valleys waiting to pick up on the trickle of researchers that moved back and forth between villages. There were gangs of ex-soldiers, deserted militia and paramilitary units alongside a company of rebel groups which had been said to camp out in the darkness somewhere, waiting. They watched the desert landscape for movement of any kind in hope of an easy late-night meal.
 
-She squinted into the depths of the track road ahead, trying to see the faces of these soldiers in the darkness, of the men and the boys that made up this invisible army. All she could see was the dirt track in the half-cone of light ahead, her red Toyota pick up had a broken headlight which she had forgotten to fix the day before. But *fuck it* she thought. *Amongst all those broken headlights and monsters out there there isn’t a single one of them that’s mad enough to mess with me tonight.”
+She squinted into the darkness ahead, trying to spot the faces of these soldiers and trying to imagine the people that made up this invisible army of nightmares. All she could see was the dirt track in the half-cone of light ahead—her red Toyota pick up had a broken headlight which she had forgotten to fix the day before, but *fuck it!* she thought. *Amongst all those broken headlights and monsters out there, there isn’t a single one of them that’s mad enough to mess with me tonight.”
 
-Tonight was special.
+Because tonight was special.
 
-A call had woken her buzzed her out of bed not ten minutes before – an unpredictable rain storm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. As soon as the buzzer woke her she could it in her bones. Something was different, this was what she had been waiting for. 
+A call had woken her, buzzed her out of bed, not ten minutes before – an unpredictable rain storm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. She could feel it in her bones the way it’s said about pilots with decades of experience and how they can begin to physically sense the tips of the jet fighter’s wings; tonight she could feel the drop in pressure, tonight she could somehow feel the palpitating, beautiful puffy rain clouds on the horizon. Of course, she had dreamt of this moment a million times but tonight something was different, this was what she had been waiting for.
 
 “Aeve! Aeve, are you there? Where the hell are you – for fuck’s sake – we need you right he—” 
 
-“Hang on, what’s wrong?” she gasped sleepily, trying to hide her excitement as much as possible.
+“Hang on, what’s wrong?” she gasped sleepily into the phone, trying to hide her excitement as much as possible and pretending not to really know what was going on.
 
-“We. Need. You. Here. Right. Now! Don’t make me come over there myse—“
+“We. Need. You. Here, right now! Don’t make me come over there myse—“
 
-She hung up, dressed and filled a flask with water. *This was it*, she thought. All those years of traveling and waiting and field research—had it all been leading to this very moment? Her kitchen seemed to stretch and expand under her feet; the exhilaration couldn’t quite stop the unbearable flow of tiredness that was currently seeping into her bones—before she knew it she was almost asleep at the wheel whilst great spirits of smoke trailed after her in the night.
+She hung up and tossed the phone onto her bed. *This was it*, she thought. All those years of traveling and waiting, all those delicate years of painstaking field research—had it all been leading to this evening? Her kitchen seemed to stretch and expand under her feet; the exhilaration couldn’t quite stop the unbearable flow of tiredness that was currently seeping into her bones. Before she knew it she was almost asleep at the wheel whilst great spirits of dirt trailed after her jeep.
 
-“Woooooo! Come on!” 
+***
+
+How long had she been swearing at a cloud? 
+
+Barreling through a mountain path Aeve kept one eye on the road and another on the sky above – she couldn’t see the stars! And in Kenya you could *always* see them, they were unavoidable features of the landscape; the nightsky was so clear that describing it as 'full of stars' was perhaps an insult. Aeve believed it looked much more like an alien city hovering above the desert sky, a fractured metropolis made up of billions of little bulbs, fractals awaiting someone to trace lines between them.
+
+“Come on, you useless bastard! COME ON!” she stretched her neck around the sky and couldn’t focus properly – were the stars there or was she simply exhausted?
+
+
+Half the stars were invisible but.
 
 the flood was muscling in on the familiar clouds of dirt and now this band of red smoke which clung to everything was in full retreat. Sadly the heat of the evening hadn’t fled in unison, in fact, it seemed to bond with the rain much like how milk bonds with hot chocolate in a saucepan. In her drowsy state she briefly wondered when was the last  time she had watched chocolate melt in her kitchen
 
