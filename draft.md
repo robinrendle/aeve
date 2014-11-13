@@ -1,28 +1,40 @@
-She could remember the stories well; bandits roamed these valleys waiting to pick up on the trickle of researchers that moved back and forth between villages. There were gangs of ex-soldiers, deserted militia and paramilitary units alongside a company of rebel groups which had been said to camp out in the surrounding darkness, waiting. They watched the desert landscape for movement of any kind in hope of an easy late-night meal. So, setting aside the thin dirt track she had been rocketing down at 70mph in the middle of the night and the fact that she had only had about two hours of sleep, it was still far too dangerous for Aeve to be driving so recklessly. 
+How long had she been swearing at the clouds? 
 
-She squinted into the darkness ahead, trying to spot the faces of these soldiers, imagining this invisible army of nightmares hidden in the bracken. All she could see was the dirt track in the half-cone of light ahead—she had forgotten to fix a broken headlight the day before–*fuck it!* she thought, *there isn’t a single broken headlight or monster out there that’s mad enough to mess with me tonight.”*
+Barreling down the mountain path, and keeping one eye on the sky above whilst she drove, Aeve realised that she couldn’t see the stars. And in Kenya you could *always* see them, they were unavoidable features of the landscape at night. Stars materialised like an alien city hovering above the desert sky, a fractured, luminescent metropolis made up of billions of little bulbs, fractals just lying there ready for someone to trace lines between them all.
+
+“Come on, you useless bastards!” she screamed, her voice carrying far out into the darkness. Yet if there were any clouds above they were certainly unmoved by her florid taunts; the insults quickly escalated into a stream of accusations—she blamed the clouds for everything. Her voice became clear even over the truck’s engine and the tired, rusty *clunk* of gears inside. Her screams broke into whispers, the threats tailed off into hopeful prayers.
+
+Were the stars out tonight or was she simply exhausted? Turning around in every direction, her pickup responded by swinging dangerously from one side of the dirt road to the other. *Concentrate, you idiot*. In her debilitating exhaustion Aeve had forgotten that the surrounding darkness was stacked with danger; she knew the stories well.
+
+Bandits roamed these valleys waiting to pick up on the trickle of researchers that moved back and forth between villages. There were gangs of ex-soldiers, deserted militia and paramilitary units alongside a company of rebel groups which had been said to camp out in the surrounding desert, waiting. They patrolled the landscape for movement of any kind, in search of an easy late-night meal. So setting aside the darkness, the thin dirt track she had been rocketing down at 70mph, and the fact that she only had about two hours of sleep, it was still far too dangerous for Aeve to be driving so recklessly.
+
+Squinting into the blur ahead, a liquid shadow of foreground and background waved in the near distance. She tried to spot the faces of these soldiers, imagining an invisible army of nightmares hidden in amongst the bracken. All she could see was the tiny strip of road through a half-cone of light ahead since she had forgotten to fix a broken headlight the day before–*fuck it!* she thought, *there isn’t a single broken headlight or monster out there that’s mad enough to screw with me tonight.”*
 
 Because tonight was special.
 
-A call had woken her, buzzed her out of bed, not ten minutes before – an unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. She could feel it in her bones, like the way it’s said of experienced pilots who, with decades of air time, can begin to sense the tips of the jet fighter’s wings like extensions of their body. Tonight she felt the drop in air pressure. Tonight she could somehow feel the palpitating, beautiful puffy rain clouds on the horizon. Of course, she had dreamt and planned for this moment a million times before but tonight something was different, this was what she had been waiting for.
+A call had woken her, buzzed her out of bed. An unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. She could feel it in her bones, like the way it’s said of experienced pilots that learn to feel the wings of the plane like extensions of their own body. 
 
-“Aeve! Aeve, are you there? Where the hell are you – for fuck’s sake – we need you right he—” 
+Tonight she felt the drop in air pressure. Tonight she could somehow feel the palpitating, beautiful puffy little rain clouds that sat on the horizon. Of course, she had dreamt and planned for this moment a million times before but tonight something was different, this was what she had been waiting for.
+
+“Aeve! Aeve, are you there? Where the hell are you – for fuck’s sake – we need you tonight.” 
 
 “Hang on, what’s wrong?” she gasped sleepily into the phone, trying to hide her excitement as much as possible and pretending not to really know what was going on.
 
-“We. Need. You. Here, right now! I have no fucking clue where Felix is and we have a storm rolling in. Don’t mess me—“
+“We. Need. You. Right now! I have no idea where Felix is and we have this storm rolling in. Don’t mess ab—“
 
-She hung up but held the phone tightly in her hands. *This was it*, she thought. All those years of traveling and waiting, all those delicate years of painstaking field research—had it all been leading to this evening? Her kitchen seemed to stretch and expand under her feet yet the exhilaration couldn’t quite stop the unbearable flow of tiredness that was currently seeping into her bones. Before she knew it she was half asleep at the wheel, and fully cloaked by a heavy, formidable darkness. Great spirits of dirt trailed after her jeep in the night.
+She hung up. Holding the phone tightly in her hands, she thought *this was it*. All those years of traveling and waiting, all those delicate years of painstaking field research, had it all been leading up to this evening? Her room seemed to stretch and expand under her feet yet the adrenalin couldn’t quite stop the flow of exhaustion that was currently seeping into her bones.
+
+Before she knew it she was half asleep at the wheel, and fully cloaked by a heavy, formidable darkness. Great spirits of dirt trailed after her jeep in the night.
 
 ***
 
-How long had she been swearing at the clouds? 
+Even in the middle of the night the heat was extraordinary. Aeve fumbled through the passenger seat and salvaged a red dust coated flask; cracking the lid off with a single hand, she gulped as much as possible whilst keeping her eyes on the dirt track.
 
-Barreling through the mountain path that Aeve knew, she kept one eye on the road and another on the sky above – she couldn’t see the stars! And in Kenya you could *always* see them, they were unavoidable features of the landscape. Yet describing the nightsky as being 'full of stars' was perhaps an insult. Aeve believed it looked much more like an alien city hovering above the desert sky, a fractured metropolis made up of billions of little bulbs, fractals just lying there ready for someone to trace lines between them all.
+She momentarily had a powerful urge to check her phone for messages but let it pass. The feeling backed off but now her thoughts were jumping all over *that* and she didn’t want to focus on anything that wasn’t mission critical.
 
-“Come on, you useless bastards! COME ON!” she screamed at the clouds above, but if there were any clouds above in the darkness, they were certainly unmoved by her florid taunts. She stretched her neck around the sky and couldn’t focus properly – were the stars out tonight or was she simply exhausted?
+*Wait, was that--rain?* Unable to process anything, she touched her cheek and looked back up at the clouds above. She decided to hit the brakes – the truck lurched forward and the engine dimmed to a mere rumble. Screeching crickets materialised around her, they appeared to be attracted to the car itself. 
 
-
+Aeve climbed up onto the seats, balancing her weight across the head rests, and held out her arms wide across the roofless jeep. 
 
 the flood was muscling in on the familiar clouds of dirt and now this band of red smoke which clung to everything was in full retreat. Sadly the heat of the evening hadn’t fled in unison, in fact, it seemed to bond with the rain much like how milk bonds with hot chocolate in a saucepan. In her drowsy state she briefly wondered when was the last  time she had watched chocolate melt in her kitchen
 
@@ -30,11 +42,9 @@ as Aeve wound through the track as best she could. The darkness swamped her surr
 
 Years of work and research had been leading up to a single flash flood; if her team could catch this storm at just the right moment then their work might be propelled forwards by a year, five years, a decade!
 
-She knew right she was driving through the crest of two sweeping mountains and they would magnify the effects of the raincloud tenfold as the rivulets would flow straight into her lab. 
+She knew right she was driving through the crest of two sweeping mountains and they would magnify the effects of the raincloud tenfold as the rivulets would flow straight towards them. 
 
-The white-light blur of an antelope darted across the road but she didnt flinch as any sane driver might. Her project was simply too important to mess up. Thirst! She immediately realised how thirsty she was in the sweltering heat and couldnt remember the last time she had drunk anything. Aeve swooped through the passenger seat and salvaged a red dust coated flask; she cracked the lid off with a single hand and gulped as much as possible whilst keeping her eyes on the dirt track; a single second of averted eye contact at this speed would likely ruin her car and leave her stranded. 
 
-She had a powerful urge to check her phone for messages but let the feeling pass.
 
 Aeve missed the clutch and the whole truck made a terrible ca-thunk as it joltered across the gears — she recognised something! A white tree on the left side of the path had been split right down the middle during a thunderstorm last year; the lab was just ahead.
 
