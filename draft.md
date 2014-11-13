@@ -1,16 +1,16 @@
 How long had she been swearing at the clouds? 
 
-Barreling down the mountain path and keeping one eye on the sky above whilst she drove, Aeve realised that she couldn’t see the stars — but in Kenya you could *always* see them, they were unavoidable features of the landscape at night. Stars materialised like an alien city hovering above the desert, it was a fractured, luminescent metropolis made up of billions of little bulbs and microscopic fractals which lay there, ready for someone to trace lines between them all.
+Barreling down the mountain path and keeping one eye on the sky above whilst she drove, Aeve realised that she couldn’t see the stars — but in Kenya you could *always* see them, they were unavoidable features of the landscape at night. Stars materialised, hovering above the desert as a fractured, luminescent metropolis made up of billions of little bulbs and microscopic fractals which lay in wait, ready for someone to trace lines between them all.
 
-However, if the clouds were listening then they were certainly unmoved by her florid taunts; the insults quickly escalated into a stream of accusations as she started to blame the clouds for everything. Her voice became clear even over the truck’s engine and the tired, rusty *clunk* of gears twirling inside. These screams soon broke into whispers and after a short while her threats trailed off into hopeful prayers.
+However, if the clouds were listening then they were certainly unmoved by her florid taunts; the insults quickly escalated into a stream of accusations as she started to blame the clouds for everything. Her voice became clear even over the truck’s engine and the tired, rusty *clunk* of gears twirling inside. Aeve’s screams soon broke into whispers and after a short while her threats trailed off into hopeful prayers.
 
-Were the stars out tonight or was she simply exhausted? Turning in every direction, her truck responded by swinging dangerously from one side of the dirt road to the other. *Concentrate, you idiot*. In her debilitating exhaustion Aeve had forgotten that the surrounding darkness was stacked with danger, as she knew the stories well enough.
+Were the stars out tonight or was she simply exhausted? Turning in every direction, her truck responded by swinging dangerously from one side of the track to the other. *Concentrate, you idiot*. In her debilitating exhaustion Aeve had forgotten that the surrounding darkness was stacked with danger, as she knew the stories well enough.
 
-Bandits roamed these valleys waiting to pounce on the researchers that moved back and forth between villages. There were gangs of ex-soldiers, deserted militia and paramilitary units alongside a company of rebel groups which had been said to camp out in the surrounding desert, waiting. They patrolled the landscape for movement of any kind, in search of an easy late-night meal. So setting aside the dirt track she had been speeding through in the darkness, and the fact that she only had about two hours of sleep, it was still far too dangerous for Aeve to be driving so recklessly.
+Bandits roamed these desert valleys waiting to pounce on the researchers that moved back and forth between villages. There were gangs of ex-soldiers, deserted militia and paramilitary units alongside a company of rebel groups which had been said to camp out in the surrounding desert. They patrolled the landscape for movement of any kind in search of an easy late-night meal. So setting aside the dirt track she had been speeding through in the darkness, and the fact that she only had about two hours of sleep, it was still far too dangerous for Aeve to be driving so recklessly.
 
-A few moments later she found the foreground and the background waving asynchronously into a mushy silhouette. Aeve searched this liquid shadow for the faces of monsters, and she could begin to imagine an invisible army of nightmares hidden in amongst the bracken. But now all she could find was the tiny strip of road, lit by a half-cone of light – she had forgotten to fix a broken headlight the day before. *Fuck it!* she thought, *there isn’t a single broken headlight or monster out there that’s mad enough to screw with me tonight.”*
+A few moments later she found the foreground and the background began to wave asynchronously into a mushy silhouette. Aeve searched this liquid shadow for the faces of monsters, and she could begin to imagine an invisible army of nightmares hidden in amongst the bracken. But now all she could find was the tiny strip of road, lit by a half-cone of light – she had forgotten to fix a broken headlight the day before. *Fuck it!* she thought, *there isn’t a single broken headlight or monster out there that’s mad enough to screw with me tonight.”*
 
-Because tonight was special. A call had woken her, buzzed her out of bed. An unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. She could feel it in her bones like the way it’s said of experienced pilots, their planes become extensions of their own body.
+Because tonight was special; a call had woken her, buzzed her out of bed. An unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. She could feel it in her bones like the way it’s said of experienced pilots and their planes, how the fuselage, propellors and the tips of wings become extensions of their own body.
 
 Tonight she felt the drop in air pressure. Tonight she could somehow feel the palpitating, beautiful puffy little rain clouds that sat on the horizon. Of course, she had dreamt and planned for this moment a million times before but tonight something was different. This is was what she had been waiting for.
 
@@ -22,17 +22,15 @@ Tonight she felt the drop in air pressure. Tonight she could somehow feel the pa
 
 She hung up. Holding the phone tightly in her hands, she thought *this was it*. All those years of traveling and waiting, all those delicate years of painstaking field research, had it all been leading up to this evening? Her room seemed to stretch and expand under her feet yet the adrenalin couldn’t quite stop the flow of exhaustion that was currently seeping into her bones.
 
-Before she knew it she was half asleep at the wheel, and fully cloaked by a heavy, formidable darkness. Great spirits of dirt trailed after her jeep in the night.
+Before she knew it she was half asleep at the wheel, and fully cloaked by a heavy, formidable darkness as great spirits of dirt trailed after her jeep in the night.
 
 ***
 
-Aeve fumbled through the passenger seat and salvaged a flask coated in sand and dust; cracking the lid off with a single hand, she gulped down as much as possible whilst keeping her eyes on the track ahead; even in the middle of the night the heat was extraordinary. 
+Even in the middle of winter the heat was extraordinary. Aeve fumbled through the passenger seat and salvaged a flask coated in sand and dust; cracking the lid off with a single hand, she gulped down as much as possible whilst keeping her focus on the track ahead. Her cellphone fell out of a jacket pocket and skirted the rim of the jeep – she suddenly had a powerful, almost violent urge to check it for new messages, but let the feeling pass.
 
-She suddenly had a powerful, almost violent urge to check her cellphone for new messages, but let the feeling pass.
+*Wait, was that?* Unable to process anything, Aeve touched her cheek and looked back up at the clouds above. She hit the brakes and the truck lurched forward, the engine dimmed to a quiet rumble. She jumped up onto the seats, balancing her weight across the head rests, and held out her arms wide across the roofless jeep.
 
-*Wait, was that--rain?* Unable to process anything, Aeve touched her cheek and looked back up at the clouds above. She hit the brakes and the truck lurched forward, the engine dimmed to a mere quiet rumble. She jumped up onto the seats, balancing her weight across the head rests, and held out her arms wide across the roofless jeep.
-
-No rain. There were plenty of screeching crickets which seem to flock to her, but not a sign of rain.
+No rain. There were plenty of screeching crickets, which seemed to flock to her as if she was a prophet, but there was no sign of rain.
 
 Aeve breathed in deeply and felt a speck of water on her naked wrist, then her shoulder, and then it ran through her hair. These molecular specks gathered their strength and called for backup, in less than a minute the random drips had formed a torrential downpour. Water darting around freckles and bouncing over her nose, it passed over her light brown complexion and swooped over every inch of Aeve’s skin. She had the oddest sensation that the rain had binding itself to the red dust and sand in the air, as milk blends with hot chocolate in a saucepan.
 
