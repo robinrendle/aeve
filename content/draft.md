@@ -1,70 +1,58 @@
 For how long had she been swearing at the clouds? 
 
-Barreling down the mountain path and screaming up at the sky above whilst she drove, Aeve realised that she couldn’t see the stars. Yet in southern Mali you could *always* see them, they were unavoidable features of the landscape at night; they materialised, hovering above the desert as a fractured, luminescent metropolis made up of billions of little bulbs and microscopic fractals which lay in wait, ready for someone to trace lines between them all.
+Barreling down the mountain path and screaming up at the sky above whilst she drove, Aeve realised that she couldn’t see the stars in the darkness above. Yet in central Mali you could *always* see them, they were unavoidable features of the landscape at night. Stars materialised, hovering above the desert as a fractured, luminescent metropolis made up of billions of little bulbs and microscopic fractals which lay in wait, ready for someone to trace lines between them all.
 
-If the clouds were listening then they were certainly unmoved by her florid taunts; the insults quickly escalated into a stream of accusations as she started to blame the clouds for everything. Aeve’s voice became clear even over the truck’s engine and the tired, rusty *clunk* of gears twirling inside. But her screams soon trailed off into whispers and after a short while her threats gave way to hopeful prayers.
+If the clouds were listening then they were certainly unmoved by her florid taunts. These insults quickly escalated into a stream of accusations as Aeve started to blame the clouds for everything, her voice clear even over the truck’s engine and the tired, rusty *clunk* of gears twirling inside. Soon enough her calls trailed off into whispers and after a short while her threats gave way to hopeful prayers.
 
 Were the stars out tonight or was she simply exhausted? Craning her neck in every direction she scanned the horizon for a clearer view, but her truck responded by swinging dangerously from one side of the track to the other. *Concentrate, you idiot*. In her debilitating exhaustion Aeve had forgotten that the surrounding darkness was stacked with danger, as she knew the stories well enough; bandits roamed these desert valleys waiting to pounce on the researchers that moved back and forth between villages. Gangs of ex-soldiers, deserted militia and paramilitary units, alongside a company of rebel groups, had been said to camp out in the surrounding fields. They patrolled the landscape for movement of any kind in search of an easy late-night meal. So setting aside the dirt track she had been speeding through in the darkness, and the fact that she only had about two hours of sleep, it was still far too dangerous for Aeve to be driving so recklessly.
 
-A few moments later she watched the foreground and the background merge into a fluid, mushy silhouette. Aeve searched this liquid shadow for the faces of monsters, and she could begin to imagine an invisible army of nightmares. But moments later the faces vanished. Now all she could see was a pale, half-cone of light which brightened the track ahead and the bracken to the right side of the truck. *Fuck it!* she thought, *there isn’t a single broken headlamp or monster out there that’s mad enough to screw with me tonight.”*
+A few moments later she watched the foreground and the background merge into a fluid, mushy silhouette. Aeve searched this liquid shadow for the faces of monsters, and she could begin to imagine an invisible army of nightmares camped out there. But moments later the faces vanished. Now all she could see was a pale, half-cone of light which brightened the track ahead and the bracken to the right side of the truck. *Fuck it!* she thought, *there isn’t a single broken headlamp or monster out there that’s mad enough to screw with me tonight.”*
 
 Because tonight was special.
 
-Ten minutes ago a call had woken her, buzzed her out of bed. An unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. From the comfort of her apartment she could feel it in her bones, just like the way it’s said of experienced pilots and their planes, how the fuselage, propellors and the tips of their wings become extensions of the pilot’s body.
+Ten minutes ago a call had woken her, buzzed her out of bed. An unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. From the comfort of her apartment she could feel these atmospheric movements in her bones, just like the way it’s said of experienced pilots and their planes, how the fuselage, propellors and the tips of their wings become extensions of the pilot’s body.
 
-Tonight she could feel the drop in air pressure. Tonight she could somehow feel the palpitating, beautiful puffy little rain clouds that sat on the horizon. Of course, she had dreamt and planned for this moment a million times before but tonight something was different. This is was what they had been waiting for.
+Tonight she could feel the drop in air pressure. Tonight she could somehow feel the palpitating, beautiful puffy little rain clouds that sat on the horizon. Of course, she had dreamt and planned for this moment a million times before but tonight something was different; this is was what they had been waiting for all this time.
 
 “Aeve! Aeve, are you there? Where the hell are you – for fuck’s sake – we need you tonight.” Aeve recognised the buzzing voice on the other end of the line as Sam, a friendly colleague that often took his job a little too seriously.
 
 “Huh, what’s wrong?” Aeve yawned into her cellphone, trying to hide her excitement as much as possible and pretending not to really know what was going on.
 
-“We need you here, right now! I have no idea where Felix is and we have this storm rolling in. Don’t mess ab—“ the voice cut into silence as Aeve hung up.
+“We need you here! I have no idea where Felix is and we have this storm rolling in. Don’t mess ab—“ the voice cut to silence as Aeve hung up.
 
-Holding the phone tightly in her hands, she thought *this is it*. After all these years of traveling and waiting, all these delicate moments of painstaking field research, it had all been leading up to this evening. Her room seemed to stretch and expand under her feet, yet the adrenalin couldn’t quite stop the flow of exhaustion that was currently seeping into her bones.
+Holding the phone tightly in her hands, she thought *this is it*. After all these years of traveling and waiting, all these delicate moments of painstaking field research, it had all been leading up to this evening. Her room seemed to stretch and expand under her feet, yet the adrenalin couldn’t quite stop the flow of exhaustion that was currently seeping into her body.
 
 Before she knew it she was half asleep at the wheel, and fully cloaked by a heavy, formidable darkness whilst great spirits of dirt trailed after her jeep in the night.
 
 ***
 
-Even in the depths of winter the heat was simply extraordinary. Aeve stretched into the passenger seat and, salvaging a flask coated in sand and dust, gulped down as much as possible whilst keeping her focus on the track ahead. A cellphone fell out of a jacket pocket on the seat and she suddenly had an overwhelming urge to check for new messages or updates on the storm, but let the feeling pass.
+Even in the depths of winter the heat was simply extraordinary. Aeve stretched into the passenger seat and, salvaging a flask coated in sand and dust, she gulped down as much as possible whilst keeping her focus on the track ahead. But keeping her attention on the road was almost impossible – the monotony of the night combined with the warm, dead air that brushed her face  made things very difficult.
 
-Unable to process anything, Aeve touched her cheek and looked back up at the clouds above. She hit the brakes and the truck lurched forward as the engine rasped into a quiet rumble. She hopped up onto the seats, standing on the headrests and trying to balance properly without toppling over. She held her arms out wide from the roofless jeep.
+The rest of the jeep pulled into focus as she tried desperately to stay awake; her cellphone and useless, scrunched-up jacket lay on the passenger seat next to her and a map was folded neatly on the floor along with a thick pool of pens, pencils and measuring equipment, they all swirled and danced around as the jeep rocked from side to side. She suddenly had an overwhelming urge to check for new messages or updates on the storm from her phone, and tried to let the feeling pass.
 
-No rain. There were plenty of screeching crickets, they flocked to her as if she was a prophet bearing wonderful news, but there was no sign of rain.
+Ten unread messages. She scrolled through each of them anxiously; six of them were from Sam and the others were notifications about the weather. Aeve threw her phone back onto the passenger seat, angry at giving in to the temptation so easily. *Concentrate, concentrate*. She willed herself to think about what was at the end of the road, about what would happen once she got into her lab again.
 
-Aeve breathed in deeply and felt a speck of water on her wrist, then her shoulder, and then it ran through her hair. She smiled. These molecular specks gathered in number and called for backup; in less than a minute the random drips had formed a torrential downpour with water darting around her freckles and bouncing over her nose, it hopped over her light brown complexion and swooped over every inch of Aeve’s skin.
+Aeve noticed traces of water along the windscreen and shortly afterwards she felt something brush her cheek. *Was that rain?* She brushed her face and turned to the sky just above the horizon. Aeve hit the brakes and the engine gasped and wheezed into a quiet, bubbling rumble whilst the truck lurched forward, propelling the contents of its innards with it. 
 
-Giggling like a child, she collapsed into the jeep and accelerated through these silhouettes now made up of layers of freshwater. She daydreamed that the rain was starting to bind itself to the low clouds of red sand and dust, similar to how milk blends with hot chocolate in a saucepan.
+She hopped up onto the seats, standing on the headrests and, trying to balance properly without toppling over, she stretched her arms out wide from the roofless jeep.
 
-Aeve couldn’t believe it, she assumed that she would never see a raincloud in Mali, let alone a torrential storm. The previous dry season had lasted two hundred and fifty years, whilst the current spell had lasted a mere fifty-seven months by her last count, so this didn’t feel at all possible. It was a once in a lifetime experience, but she had little time to enjoy it. There was work to be done, soil to be scooped, research to be hacked together for her boss.
+There was no sign of rain, or water, or wind, or any sign of movement brimming with life whatsoever. There were plenty of screeching crickets however, they appeared to flock to her as if she was a prophet bearing wonderful news for the crickets, but there was certainly no sign of rain.
 
-The dream faded as Aeve came across a familiar clearing where the path descended further towards a wide, barren plain. In the center, giant bubbles of plastic and metal clung to the earth, each illuminated in bright neon colors. Orange and blue, red and green; the complex was a gleaming, bubbling cloud of lights surrounded by hundreds of miles of complete darkness. Grabbing the radio on her waist Aeve frantically checked into the facility with her eight digit ID before shaking the sleepiness from her body again and racing down the hill.
+She breathed in deeply and felt a peculiar speck of water on her wrist, then her shoulder, and then it bounced through her hair. Aeve smiled; these molecular specks gathered in number and called for backup. In less than a minute the random drips had formed a torrential downpour with water darting around her freckles and bouncing over her small nose, it hopped over her skin, which made her dark-brown complexion shine in the darkness; the rain began to swoop over every inch of Aeve’s clothes and trickled into sandy pools in the bottom of the jeep.
 
-For a second she flinched, as she thought about how she once hiked to the lab early one morning instead. A gang of soldiers appeared behind trees silently, effortlessly, like clowns creeping out of a tiny car. Of course Aeve knew these men weren’t the monsters she had heard so many tales about, but that fact somehow failed to calm her nerves.
+Giggling like a child, she collapsed into the driver’s seat and accelerated down the track, but this time she pushed the jeep even further towards its limits. Along the way her sleepiness caught hold of her again as she believed that the rain was starting to bind itself to the mists of red sand and dust around her, similar to how milk blends with hot chocolate in a saucepan.
+
+Aeve thought that she would never see a raincloud in Mali, let alone a torrential storm. The previous dry season had lasted two hundred and fifty years, whilst the current spell had lasted a mere fifty-seven months by her last count, so this didn’t feel at all possible. It was a once in a lifetime experience, but she had little time to enjoy it. There was work to be done, soil to be scooped, research to be compiled for her team.
+
+A familiar clearing appeared where the path descended further towards a wide, barren plain. In the center, giant oblong bubbles of plastic clung to the earth, each illuminated in bright neon colors. Orange and blue, red and green; the complex below was a gleaming, bubbling cloud of lights surrounded by hundreds of miles of complete darkness. 
+
+Aeve frantically checked into the facility with her eight digit password via radio before shaking the sleepiness from her body again and racing down the hill. She thought about the time when she had once hiked to the lab early one morning; a gang of soldiers appeared behind these trees silently, effortlessly, like clowns creeping out of a tiny car. Of course Aeve knew these men weren’t anything like the monsters she had heard so many tales about, but that fact somehow failed to calm her nerves.
 
 ***
-
 
 > The whole point of this scene is to describe what Aeve does and what the problem is – it needs to tell us that she’s in Mali and why/how she got there. That she’s a bioengineer working on protecting the Sahel from increasing amounts of desertation along the central axis of the country. She travels a lot. Last year she was in Cameroon working with another team, six months previous she was in another country.
 > What does she need to do in the facility?
 > Sam and Aeve are friends.
-
-
-Inside the lab, Aeve catched a glimpse of a large, bespectacled and peculiarly hairy white guy hunched behind his desk. She discarded the usual pleasantries. 
-
-”It fucking worked, Sam! It fucking worked!” she shouted, launching her bag onto the desk next to him.
-
-“It’s crazy, right? There’s a huge problem though,” Sam replied, the flicker of text from his laptop scrolled on his tiny glasses  rapidly. 
-
-”It looks like traps fifteen through twenty-one aren’t working. The rest are fine and I assume it was just the wind or something that knocked them off the network, but I had to make sure you were here before we checked on it.”
-
-Sam was typing something urgent on the screen in front of him, but by now Aeve was quite familiar with Sam’s odd form of multitasking. He had the strangest ability to focus on two very complex tasks at the same time. In this case Aeve could see him pouring over the data that was coming in from all over the station, so it wasn’t particularly taxing. But Aeve had always felt the need to work in total silence, so sometimes she sat in complete wonder whilst he built an application, chatted to his wife back in Mexico over IM whilst talking to a colleague and listening to a podcast at the same time.
-
-“Shit.” 
-
-
-We’ll need to manually open them. Grab your coat.
-
 
 Aeve moved over to a minifridge in the corner of the room and started to drink the most caffeineted thing that she could find.
 
@@ -121,6 +109,35 @@ If you looked close enough you might notice that, throughout this starry sea, a 
 The lights in her office momentarily flickered. Power surge? Circuit failure? She’d need to investigate, which meant hours of diligent engineering work looking for crossed fibres in endless racks of electronic circuits. It was precisely what she needed because waiting for the Ping pong beacon to return its signal was sickly, heartbreaking, incurable.
 
 She regulated her breathing, willing the storm outside to clear, and returned to her work. Chik, chik, hrumph!
+
+***
+
+> Man attacks the tracks, breaks three of them. Believes that if nature intended for the valley to swept of life, then so be it – maybe that is Fate.
+> Aeve confronts the native man about the attack once he is captured.
+> This scene is about confronting Aeve’s belief that science can how saving a biological structure will change it.
+> What if science can save life, and that life changes, is it still worth fighting for it?
+
+
+Inside the lab, Aeve catched a glimpse of a large, bespectacled and peculiarly hairy white guy hunched behind his desk, lit only by the glow of his laptop’s screen.
+
+”It fucking worked, Sam! It fucking worked!” she shouted, launching her bag onto the desk next to him.
+
+“It’s crazy, right? There’s a huge problem though,” Sam replied, the flicker of text from his laptop scrolled on his tiny glasses  rapidly. ”It looks like traps fifteen through twenty-one aren’t working. The rest are fine and I assume it was just the wind or something that knocked them off the network, but I had to make sure you were here before we checked on it.”
+
+He was typing something urgent on the screen in front of him – by now Aeve was quite familiar with Sam’s odd form of multitasking. He had the strangest ability to focus on two very complex tasks at the same time. In this case Aeve could see him pouring over the data that was coming in from all over the station, so it wasn’t particularly taxing. But Aeve had always felt the need to work in silence, so sometimes she sat in complete wonder whilst he built an application, chatted to his wife back in Mexico over IM whilst talking to a colleague and listening to a podcast at the same time.
+
+“Shit.” 
+
+
+We’ll need to manually open them. Grab your coat.
+
+
+
+
+
+
+
+
 
 
 
