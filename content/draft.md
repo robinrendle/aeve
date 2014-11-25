@@ -1,4 +1,4 @@
-Barreling down the mountain path and screaming up at the sky above whilst she drove, Aeve realised that she couldn’t find the stars. Yet in central Mali you could *always* see them, they were unavoidable features of the landscape at night. Stars often materialised, hovering above the desert, as a fractured, luminescent metropolis made up of billions of little bulbs and microscopic fractals which lay in wait, ready for someone to trace lines between them all.
+Barreling down the track and yelling up at the sky above whilst she drove, Aeve realised that she couldn’t find the stars. Yet in central Mali you could *always* see them, they were unavoidable features of the landscape at night. Stars often materialised, hovering above the desert, as a fractured, luminescent metropolis made up of billions of little bulbs and microscopic fractals that lay in wait, ready for someone to trace lines between them all.
 
 So for how long had she been swearing at the clouds?
 
@@ -6,15 +6,15 @@ In any case, if the clouds were listening, they were certainly unmoved by her fl
 
 She couldn’t decide whether the stars were out tonight or whether she was simply exhausted. Craning her neck in every direction, Aeve scanned the horizon for a clearer view, but her truck responded by swinging dangerously from one side of the track to the other. *Concentrate, you idiot*. In her debilitating exhaustion she had forgotten that the surrounding darkness was stacked with danger, as she knew the stories well enough; bandits roamed these desert valleys waiting to pounce on the researchers that moved back and forth between villages. Gangs of ex-soldiers, deserted militia and paramilitary units, alongside a company of rebel groups, had been said to camp out in the surrounding fields. They patrolled the landscape for movement of any kind, searching of an easy late-night meal. So setting aside the dirt track she had been speeding through in the darkness, and the fact that she only had about two hours sleep, it was still far too dangerous for Aeve to be driving so recklessly.
 
-A few moments later she watched the foreground and the background merge into a fluid, mushy silhouette. Aeve peered into this liquid shadow for the faces of monsters, and she could begin to imagine an invisible army of nightmares camped there. Moments later the faces vanished, now all she could see was a pale, half-cone of light which brightened the track ahead. *Fuck it!* she thought, *there isn’t a single broken headlamp or monster out there that’s mad enough to screw with me tonight.”*
+A few moments later she watched the foreground and the background merge into a fluid, mushy silhouette. Aeve peered into this liquid shadow for the faces of monsters, and she could begin to imagine an invisible army of nightmares camped out in the darkness. Once she had shaken the tiredness from her body the faces vanished, now all she could see was a pale, half-cone of light which brightened the track ahead. *Fuck it!* she thought, *there isn’t a single broken headlamp or monster out there that’s mad enough to screw with me tonight.”*
 
 Because tonight was special.
 
-Ten minutes ago a call had woken her, buzzed her out of bed. An unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. From the comfort of her apartment she could feel these atmospheric movements in her bones, just like the way it’s said of experienced pilots and their planes, how the fuselage, propellors and the tips of their wings become extensions of the pilot’s body.
+A call had woken her, buzzed her out of bed. An unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. From the comfort of her room she could feel these atmospheric movements in her bones, just like the way it’s said of experienced pilots and their planes, how the fuselage, propellors and the tips of their wings become extensions of the pilot’s body.
 
-Tonight she could feel the drop in air pressure. Tonight she could somehow feel the palpitating, beautiful puffy little rain clouds that sat on the horizon. Of course, she had dreamt and planned for this moment a million times before but tonight something was different. Tonight buzzed with anticipation, potential and, above all, science.
+Tonight she could feel the drop in air pressure. Tonight she could somehow feel the palpitating, beautiful puffy little rain clouds that sat on the horizon. Of course, she had dreamt and planned for this moment a million times before but tonight something was different. The evening air was a buzz of nerves, possibilities and unpredictable adventures.
 
-“Aeve! Aeve, are you there? Where the hell are you – for fuck’s sake – we need you tonight.” Aeve recognised the flittering voice on the other end of the line as Sam, a colleague that often took his job a little too seriously.
+“Aeve! Aeve, are you there? Where the hell are you – for fuck’s sake – we need you tonight.” Aeve recognised the flittering voice on the other end as Sam, a colleague that often took his job a little too seriously.
 
 “What’s wrong?” Aeve yawned into her cellphone, trying to hide her excitement as much as possible.
 
@@ -26,31 +26,33 @@ Without the familiar comfort of the stars, she was half asleep at the wheel in a
 
 ***
 
-In the depths of winter the heat was simply extraordinary. Aeve stretched into the passenger seat and, salvaging a flask coated in sand and dust, gulped down as much as possible whilst focusing on the track ahead. But keeping her attention on the road was almost impossible – the monotony of the landscape combined with the warm air that brushed her face made everything difficult.
+In the depths of winter the heat was simply extraordinary. Aeve stretched into the passenger seat and, salvaging a flask coated in sand and dust, gulped down as much as possible whilst focusing on the track ahead. But keeping her attention on the road was almost impossible – the darkened landscape combined with the warm, foul air, mixed themselves together into a tonic of delirious monotony.
 
 The innards of the jeep pulled into focus as she tried desperately to stay awake; her cellphone and useless, scrunched-up jacket lay on the passenger seat next to her and a map was folded neatly on the floor along with a thick pool of pens, pencils and measuring equipment which swirled and danced around as the jeep rocked from side to side. She suddenly had an overwhelming urge to check her phone for new messages or updates on the storm, and tried to let the feeling pass.
 
 Ten unread messages. 
 
-She scrolled through each of them anxiously; six of them were from Sam and the others were notifications about the weather. Aeve threw her phone back onto the passenger seat, angry at giving in to the temptation so easily. *Concentrate, concentrate!* She willed herself to think about what was at the end of the road, about what would happen once she got into her lab again.
+She scrolled through each of them anxiously; six of them were from Sam and the others were notifications about the weather. Aeve threw her phone back onto the passenger seat, angry at giving in to the temptation so easily. *Concentrate, concentrate!* She willed herself to think about what was at the end of the road, about what would happen once she got into her lab again, but she started thinking about all the messages that she didn’t recieve, all the names that weren’t popping up as notifications.
 
-Aeve noticed traces of water on the windscreen; two distinct droplets to be precise, competitively scuttling against one another. Moments later she felt something brush her cheek. *Was that rain?* She brushed her face and turned to the sky just above the horizon. Aeve hit the brakes and the engine gasped and wheezed into a quiet, bubbling rumble whilst the truck lurched forward, propelling the contents of its innards with it. 
-
-Whole generations of Mali people have never seen a raincloud, let alone the torrential storm that was predicted. *’How would they react*?’, she wondered. The previous dry season had lasted two hundred and fifty years, whilst the current spell had lasted a mere fifty-seven months. 
+Aeve noticed traces of water on the windscreen; two distinct droplets to be precise, competitively scuttling towards the rim, clearly in some sort of competition against one another. Moments later she felt something brush her cheek. *Was that rain?* She brushed her face and turned to the sky just above the horizon. Aeve hit the brakes and the engine gasped and wheezed into a quiet, bubbling rumble whilst the truck lurched forward, propelling the contents of its innards with it. 
 
 She hopped up onto the seats and, trying to balance properly without toppling over, she stretched her arms out wide from the roofless jeep.
 
-There was no sign of rain, or water, or wind, or any sign of movement brimming with life whatsoever. There were plenty of screeching crickets however, they appeared to flock to her as if Aeve was a prophet bearing wonderful news for the crickets, but there wasn’t the slightest hint of rain.
+There was no sign of rain, or water, or wind, or any hint of movement brimming with life whatsoever. Yet, there were plenty of screeching crickets. As a flock they gathered, apparently they mistook Aeve as a prophet bearing a wonderful sermon. 
 
-She sighed deeply before launching another barrage of insults, pleads, and attacks before feeling a peculiar speck of water on her wrist. She laughed. Is this all it took? For her to stand up in the middle of the desert and swear at the stars? Another speck hit her shoulder, and then a triplet of drips bounced through her hair. Aeve laughed and smiled and laughed as these molecular specks gathered in number and called for backup. In less than a minute the random drips had formed a torrential downpour with water darting around her freckles and bouncing over her small nose, it hopped over her skin, which made her dark-brown complexion shine in the darkness; the rain began to swoop over every inch of Aeve’s clothes and trickled into sandy pools in the bottom of the jeep.
+Other than her new found holiness, there wasn’t the slightest hint of rain. Aeve thought about the generations of Mali people in the cities, towns, villages and farms, people that have never seen a raincloud, let alone the torrential storm that was predicted for tonight. The previous dry season had lasted two hundred and fifty years, whilst the current spell had lasted a mere fifty-seven months. *’How would they react*?’, she wondered.
 
-She felt like her team had broken a curse. It was a once in a lifetime experience, but she had little time to enjoy it. There was work to be done, soil to be scooped, research to be compiled for her team. Aeve collapsed into the driver’s seat giggling and watched the water ricochet off the dashboard. This time she pushed the jeep even further towards its limits. 
+Another fury of insults, pleads, and attacks was launched at the heavens before Aeve felt a peculiar speck of water on her wrist. Her entire body compulsively shook with anticipation. Is this all it took? For her to stand up in the middle of the desert and swear at the stars? Another speck hit her shoulder, and then a triplet of drips bounced through her hair. Aeve laughed and smiled and hopped as they gathered in number and called for backup. In less than a minute the random drips had formed a torrential downpour with water darting around her freckles and bouncing over her small nose, it hopped over her skin, which made her dark-brown complexion shine brightly in the darkness; the rain began to swoop over every inch of Aeve’s clothes and trickled into sandy pools in the bottom of the jeep.
 
-The rain bound itself to the mists of red sand and dust in the air, similar to how milk blends with hot chocolate in a saucepan.
+The curse lifted, the spell broken; science! It was a once in a lifetime show, but Aeve had little time to enjoy the view. There was work to be done, soil to be scooped, research to be compiled for her team. She collapsed into the driver’s seat giggling and watched the water ricochet off the dashboard; the red sand and dust bound with the water, now thick and plenty, which appeared to levitate in the air around her. This liquid-dust substance took form like milk blending with hot chocolate in a saucepan. 
+
+***
 
 A familiar clearing appeared where the path descended further towards a wide, barren plain. In the centre, giant oblong bubbles of plastic clung to the earth, each illuminated in bright neon colours. Bright orange and blue, electric sparks of red and green; the complex below was a gleaming, bubbling cloud of lights surrounded by hundreds of miles of suffocating gloom.
 
-Aeve frantically checked into the facility with her eight digit password via radio before shaking the sleepiness from her body again and racing down the hill. She thought about the time when she had once hiked to the lab early one morning; a gang of soldiers appeared behind these trees silently, effortlessly, like clowns creeping out of a tiny car. Of course she knew they weren’t anything like the monsters she had heard so many tales about, but that fact somehow failed to calm her nerves.
+Aeve frantically checked into the facility with her eight digit password via radio before shaking the sleepiness from her body again and racing down the hill. 
+
+She thought about the time when she hiked to the lab early one morning; a gang of soldiers appeared behind these trees silently, effortlessly, like clowns creeping out of a tiny car. Of course she knew they weren’t anything like the monsters she had heard so many tales about, but that fact somehow failed to calm her nerves.
 
 ***
 
@@ -189,6 +191,16 @@ Aeve found that Sam had worked at Foursquare in New York for a while. After comp
 This introduction to the team is what made these people a team. In one way or another they had shunned Silicon Valley and Wall Street of all its wealth and opulence, they had relegated all the hackathons and four day work weeks to a corner. They had thrown their six figure pay checks and five star vacations out the window and bid adieu to free gyms, free meals, free parking, free WiFi, free access to the smartest people in the startup world. They were left with something so much more profound, something that they all shared between one another. Each of them was standing on a financial and emotional iceberg together, each of them dependent on the others to survive.
 
 
+
+***
+
+This line of work required stamina in buckets. 
+
+***
+
+GLITTER! Glitter in her hair. Glitter in her drawers. Glitter under bed. Glitter in the shower. Glitter in her bag.
+
+Friend puts glitter pretty much everywhere.
 
 
 
