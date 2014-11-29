@@ -1,27 +1,27 @@
 
 															- 1 -
 
-Barreling down the track and yelling up at the sky above whilst she drove, Aeve realised that she couldn’t find the stars. Yet in central Mali you could *always* see them, they were unavoidable features of the landscape at night. Stars often materialised, hovering above the desert as a fractured, luminescent metropolis made up of billions of little bulbs and microscopic fractals that lay in wait, ready for someone to trace lines between them all.
+Barreling down the track and yelling up at the sky above whilst she drove, Aeve realised that she couldn’t find the stars. Yet in central Mali you could *always* see them, they were unavoidable features of the landscape at night. Stars often materialised, hovering above the desert as a fractured, luminescent metropolis made up of billions of little bulbs and microscopic fractals which lay in wait, ready for someone to trace lines between them all.
 
 So for how long had she been swearing at the clouds?
 
 She couldn’t say, but in any case, if the clouds were listening, then they were certainly unmoved by her florid taunts; the clouds remained stoic even when things escalated into an unforgivable stream of accusations. Aeve blamed them for everything, her voice perfectly clear over the Jeep’s engine and the tired, rusty *clunk* of gears twirling inside. But soon enough her calls trailed off into whispers and after a short while her threats gave way to hopeful prayers.
 
-Whether the stars were hiding behind clouds or whether she was simply exhausted it was impossible to tell. Craning her neck in every direction, Aeve scanned the horizon for a clearer view, but her truck responded by swinging dangerously from one side of the track to the other. *Concentrate, you idiot*. In her debilitating exhaustion she had forgotten that the surrounding darkness was stacked with danger, as she knew the stories well enough; bandits roamed these desert valleys waiting to pounce on the researchers that moved back and forth between villages. Gangs of ex-soldiers, deserted militia and paramilitary units, alongside a company of rebel groups, had been said to camp in the surrounding fields. They patrolled the landscape for movement of any kind, searching for an easy late-night meal. So setting aside the dirt track she had been speeding through in the darkness, and the fact that Aeve only had about two hours of sleep, it was still far too dangerous for her to be driving so recklessly.
+Craning her neck in every direction, Aeve scanned the horizon for a clearer view; whether the stars were hiding behind clouds or whether she was simply exhausted it was impossible to tell. Her truck responded to her movements by swinging dangerously from one side of the track to the other. *Concentrate, you idiot*. As she gained control of the vehicle Aeve remembered that the surrounding darkness was stacked with danger, as she knew the stories well enough; bandits roamed these desert valleys waiting to pounce on the researchers that moved back and forth between villages. Gangs of ex-soldiers, deserted militia and paramilitary units, alongside a company of rebel groups, had been said to camp in the surrounding fields. They patrolled the landscape for movement of any kind, searching for an easy late-night meal. So setting aside the dirt track she had been speeding through in the darkness, and the fact that Aeve only had about two hours of sleep, it was still far too dangerous for her to be driving so recklessly.
 
 A few moments later she watched the foreground and the background merge into a fluid, mushy silhouette. Aeve peered into this liquid shadow for the faces of monsters, but it was worse than she could imagine; an invisible army of nightmares were squinting right back. The faces vanished without warning, afterwards all she could see was a pale, half-cone of light which brightened the track ahead. *Fuck it!* Aeve thought, *there isn’t a single broken headlamp or monster out there that’s mad enough to screw with me tonight.”*
 
 Because tonight was special.
 
-A call had woken her, buzzed her out of bed. An unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. From the comfort of her room she could feel these atmospheric movements in her bones, just like the way it’s said of experienced pilots and their planes, how the fuselage, propellors and the tips of their wings become extensions of the pilot’s body.
+A call had woken her, buzzed her out of bed. An unpredictable rainstorm was inbound, clouds in the horizon building, humidity in the air fluctuating with every breath. From the comfort of her room she could feel these atmospheric movements in her bones, just like the way it’s said of experienced pilots and their planes — how the fuselage, propellors and the tips of their wings become extensions of the pilot’s body.
 
-Tonight Aeve could feel the drop in air pressure. Tonight she could somehow feel the palpitating, beautiful puffy little rain clouds that sat on the horizon. Of course, she had dreamt and planned for this moment a million times before but clearly there was something remarkable about to take place. 
+Tonight Aeve could feel the drop in air pressure. Tonight she could somehow feel the palpitating, beautiful puffy little rain clouds that sat on the horizon. Of course, she had dreamt and planned for this moment a million times before but clearly there was something remarkable just about to take place. 
 
-“Aeve! Aeve, are you there? Where the hell are you – for fuck’s sake – we need you tonight.” Aeve recognised the flittering voice on the other end as Hendrik, it was impossible to misplace his charming South African accent.
+“Aeve! Are you there? Where the hell are you? For fuck’s sake – we need you here!” Aeve recognised the flittering voice on the other end as Hendrik, it was impossible to misplace his charming South African accent.
 
 “We need you here! I have no idea where Sam is and we have this storm rolling in. Don’t mess ab—“ the voice cut to silence as Aeve hung up.
 
-Holding the phone tightly in her hands, she thought *this is it*. After all those years of traveling and waiting, all those delicate moments of painstaking field research, it had all been leading up to this evening. Her unorganised, scruffy room appeared to stretch and expand under her feet, yet the adrenalin couldn’t muster the surge of exhaustion that was currently seeping into her body.
+Holding the phone tightly in her hands, she thought *this is it*. After all those years of traveling and waiting, all those delicate moments of painstaking field research, it had all been leading up to this evening. Her room appeared to stretch and expand under her feet, yet the adrenalin failed to combat the surge of exhaustion that was currently seeping into her body.
 
 Without the familiar comfort of the moon or the stars, she was half asleep at the wheel in a matter of seconds and fully cloaked by a heavy, formidable darkness; great spirits of dirt trailed after her jeep in the night.
 
@@ -29,23 +29,23 @@ Without the familiar comfort of the moon or the stars, she was half asleep at th
 
 															- 2 -
 
-Even in the depths of winter the heat was simply extraordinary. Aeve stretched into the passenger seat, salvaging a flask which lay in a thin blanket of dust, and gulped down as much as possible. But thanks to the monotony of the landscape and the stifling humidity, Aeve felt as if she’d accidentally drunk a tonic brimming with sleep-inducing drugs. Keeping her attention fixed on the road ahead was then entirely out of the question.
+Aeve stretched into the passenger seat, salvaging a flask which lay in a thin blanket of dust, and gulped down as much as possible. Even in the depths of winter the heat was simply extraordinary. Yet thanks to the repetitive landscape and the stifling humidity, Aeve wondered if she’d accidentally picked up a tonic brimming with sleep-inducing drugs instead. Keeping her attention fixed on the road was then entirely out of the question.
 
-Hopelessly trying to remain conscious, Aeve took a stock check of her supplies. A cellphone and useless scrunched-up jacket sat on the passenger seat next to her and a map was folded neatly on the floor. Alongside the map lay a thick pool of containers, pens, pencils, water bottles and various tools which swirled as the Jeep rocked from one side to the other.
+Hopelessly trying to remain conscious, Aeve took a stock check of her supplies; a cellphone and a useless, scrunched-up jacket sat on the passenger seat next to her and a map was folded neatly on the floor. Alongside the map lay a thick pool of containers, pens, pencils, water bottles and various tools which swirled as the Jeep rocked from one side to the other.
 
-She noticed now that her phone was lightly chirping and had blossomed into a rectangle of light: *ten unread messages.* Of course, Aeve felt an overwhelming urge to read them, but she let the feeling pass as best she could.
+She noticed now that her phone was lightly chirping and had blossomed into a rectangle of light: *ten unread messages.* Of course, Aeve felt an overwhelming urge to read them, but she let the feeling pass as best she could; a small dose of pride and self control was enough to keep her hands steady at the wheel.
 
 *Eleven unread messages.*
 
-Shaking her head, Aeve anxiously scrolled through each of them and found that six were from Hendrik whilst the rest had been alerts of the storm. Furious at giving in to the temptation so easily, she threw her phone back onto the passenger seat with a *thump*. *Focus!* Aeve willed herself to imagine what was at the end of this horrible dirt road. 
+Shaking her head, Aeve anxiously scrolled through each of them and found that five were from Hendrik whilst the rest had been alerts about the storm. Furious at giving in to the temptation so easily, she threw her phone back onto the passenger seat with a *thump*. *Focus!* Aeve willed herself to imagine what was at the end of the track.
 
-Which of the million potential electrical problems might delay her work tonight, she wondered. Perhaps it would be a silly failure in communication or maybe these petulant, ugly, evil little clouds that were hiding above would ruin everything again. However, soon enough, her thoughts led back to all the messages that she hadn’t received, and that one, particular name that hadn’t popped up as a notification. It was here that Aeve realised she had run another mile in a familiar psychological circuit that always left her feeling exhausted; first it began with the standard doubt of professional success but somehow these thoughts always led to an enfeebling, incurable strand of loneliness.
+Of the million potential electrical failures, which of them might delay her work tonight, she wondered. Perhaps it would be a blip in communication or maybe these petulant, ugly, evil little clouds that were hiding above would ruin everything again. It was here that Aeve realised she had run another mile in a familiar psychological circuit that always left her feeling exhausted; first it began with the standard doubts of professional success but somehow these thoughts always led to an enfeebling, incurable strand of loneliness. Her thoughts trotted through all the messages that she hadn’t received, and that one, particular name that hadn’t popped up as a notification.
 
 Moments later something brushed her cheek. *Was that rain?* Traces of water were darting along the windscreen, and she noticed two solitary droplets, each scuttling towards the rim of glass as if they were locked in mortal combat.
 
-Amongst the bedlam of screeching tires and wheezing gears the Jeep stopped in the middle of the road, propelling the contents of its innards with it. But there was no sign of rain, or water, or wind, or any hint of movement or life whatsoever. Aeve hopped up onto the seats and stretched her arms out towards the sky. 
+Amongst the bedlam of screeching tires and wheezing gears the Jeep swerved to a grinding halt in the middle of the road. But there was no sign of rain, or water, or wind, or any hint of movement or life whatsoever. Aeve hopped up onto the seats and stretched her arms out towards the sky. 
 
-Dead silence was shortly filled with the sound of crickets who, gathering as a flock all around her, had apparently mistaken her as an apostle here to deliver an important sermon. Other than Aeve’s newfound obligation to the crickets, there wasn’t the slightest hint of anything momentous on the skyline; again, she still couldn’t see the clouds or the stars above.
+Dead silence was shortly filled with the sound of crickets who, gathering as a flock, had apparently mistaken her for an apostle which they believed had arrived especially for them, here to deliver an important sermon. Other than Aeve’s newfound obligation to the crickets, there wasn’t the slightest hint of anything momentous on the skyline – again, she still couldn’t see the clouds or the stars above.
 
 Aeve closed her eyes and thought about people in the cities, and those in the nearby towns and farms, people that had never seen a raincloud let alone the torrential storm that was predicted. The previous dry season had lasted two hundred and fifty years, whilst the current spell had lasted a mere fifty-seven months. Aeve considered how they might react for a moment or two before she launched another fury of insults, pleads, and attacks towards the heavens.
 
@@ -60,32 +60,30 @@ Everything in the environment appeared to rush towards the water, now thick and 
 The spell broken, the curse lifted; science! It was a once in a lifetime show, but Aeve had little time to enjoy the view. There was work to be done, soil to be scooped, research to be compiled for her team. She collapsed into the driver’s seat but as the water ricocheted off the dashboard, Aeve found herself paralysed by giggles.
 
 
-													***
-
-
-Up ahead the path descended towards a wide, barren plain in the centre of which giant oblong bubbles of plastic clung to the earth, each illuminated by its own strange color. Fluorescent orange and blue, electric sparks of red, green and white; the main lab in the center was a gleaming, bubbling cloud of neon lights surrounded by hundreds of miles of suffocating gloom.
-
-She remembered when hiking to the lab early one morning how a group of camouflaged soldiers had sprung out from the other side of a hedgerow. Silently, effortlessly, like clowns creeping out of a tiny car, they appeared before her. Of course Aeve knew these soldiers with the blue helmets weren’t anything like the monsters she’d heard so many tales about, but that somehow failed to calm her nerves. Men with guns would always be men with guns.
-
-
-
 															- 3 -
 
-Aeve’s inability to recall the last ten minutes was perhaps the first sign that she shouldn’t have crawled out of bed at 3am. Those minutes were lost, gone, vanished; she drew a complete blank. The second sign was that Aeve had somehow failed to dress herself properly, as she was missing a sock and only had a single arm in her plastic raincoat, which limply trailed behind her. Peculiarly, Aeve also noticed that the rain had stopped at one point or another whilst the skies above had opened to reveal a source of pure, dazzling luminescence. Thinking about all this for a moment Aeve came to the steady conclusion that she was no longer driving and she was no longer outside.
+Up ahead the path descended towards a wide, barren plain in the centre of which giant oblong bubbles of plastic clung to the earth, each illuminated by its own strange color. Fluorescent orange and blue, electric sparks of red, green and white; the main lab in the center was a gleaming, bubbling cloud of bright neon shadows enclosed by hundreds of miles of suffocating gloom.
 
-Instead, she was standing beneath fluorescent lights in the testing block, a building separate from the main lab. Rows of mechanical racks lay before her, waist high machines of metal and plastic. Planted on top of each rack lay a trail of coffee-coloured soil and piercing through this dirt were black, pencil-thin diamonds.
+Aeve remembered when hiking around the lab early one morning how a group of camouflaged soldiers had sprung out from the other side of a hedgerow. Silently, effortlessly, like clowns creeping out of a tiny car, they appeared before her. Of course Aeve knew these soldiers weren’t anything like the monsters she’d heard so many tales about, but that somehow failed to calm her nerves. Men with guns would now, forever and always remain to be simply men with guns.
+
+***
+
+Aeve’s inability to recall the last ten minutes was perhaps the first sign that she shouldn’t have crawled out of bed at 3am. Those minutes were lost, gone, vanished; she drew a complete blank. The second sign was that Aeve had somehow failed to dress herself properly, as she was missing a sock and only had a single arm in her plastic raincoat, which limply trailed behind her. Peculiarly, Aeve also noticed that the rain had stopped whilst the skies above had opened to reveal a source of pure, dazzling luminescence at one point or another. Thinking about all this for a moment Aeve came to the steady conclusion that she was no longer driving and she was no longer outside.
+
+Instead, she was standing beneath fluorescent lights in the testing block, a building separate from the main lab. Rows of mechanical racks lay before her, waist high machines of metal and plastic. Planted on top of each rack lay a trail of coffee-coloured soil and through this dirt were black, pencil-thin diamonds which pierced the surface.
 
 Aeve weaved her hand through the carpet of crystals nearest to her and discovered that they were malleable and gentle to the touch, like blades of grass. In fact, that’s precisely what they were, although this particular genetic strain, which Aeve would prefer to call a graminoid, had been manufactured in Amsterdam, South Africa, London and Hong Kong. Everything here was synthetic; the blinding lights above, the installation itself, the soil on her fingertips, not to forget each and every cell inside her darling graminoids.
 
-“Howdy boss!” Aeve turned to find Cathy, an Asian-American intern from MIT, heading in her direction and fiddling with something on a small touchscreen. Cathy was far too optimistic and easy-going for someone so under-valued, under-paid and over-worked. It was her job to deal with heaps of boring line graphs, bar charts and data points everyday, a task which, by now Aeve thought, should have broken her spirit at least in some recognisable way.
+“Howdy boss!” Aeve turned to find Cathy, a Texan-Asian-American intern from MIT, heading in her direction and fiddling with something on a small touchscreen. Cathy was far too optimistic and easy-going for someone so under-valued, under-paid and over-worked. It was her job to deal with heaps of boring line graphs, bar charts and to perform mindless data-entry tasks everyday. It was the kind of work which, by now Aeve thought, should have broken her spirit at least in some recognisable manner.
 
-“Hi Cathy, how’s it going?”
+“Hi Cathy, how’s it going?” Aeve replied.
 
-“It’s going just great! The racks are ready to be deployed and Hendrik was looking for you earlier, he seemed a little anxious that you weren’t here tonight. But I guess that doesn’t matter now – isn’t it so exciting?”
+“It’s going just great! Oh, Hendrik was looking for you earlier, he seemed a little anxious that you weren’t here tonight. But I guess that doesn’t matter now, does it? Isn’t it so exciting!” At this Cathy seemed to make a little hop in the air.
 
-There wasn’t the slightest hint of fatigue in Cathy’s voice.
+“Yeah, I sort of can’t believe it still...” Aeve groaned as she took off her raincoat and passed her hand through her soaking wet hair, ”Is everything ready? Have you double-checked the racks?”
 
-“Yeah, I sort of can’t believe it.” Aeve groaned as she took off her raincoat and passed her hand through her unusually short hair.
+“Yep, I found Sam earlier and he helped me check, double check and triple check that they’re all working properly.” Aeve wondered for a moment if Cathy had actually done as she said, since there wasn’t the slightest hint of fatigue or frustration in her voice.
+
 
 “Oh!” 
 
@@ -101,7 +99,9 @@ Cathy passed her the radio and Aeve entered a mindless form of automation. They�
 
 Aeve walks the length of the flower beds and checks that each of them works properly.
 
-“OK Felix, we’re ready down here.” the other scientists in the room moved over to Aeve in a 
+“OK Felix, we’re ready.” the other scientists in the room moved over to Aeve in a 
+
+3...2...1...
 
 The shutters in the roof opened, the grass was gently placed into the pre-made tracks in the earth. A cascade of water ran through the lab into them as they’re gently left by the machines.
 
@@ -114,21 +114,21 @@ Aeve could now see the moon and the stars and the clouds!
 
 She thought about the RTS games she played in highschool and how, with a single gesture, you could plant giant factories into the earth or fields of wheat and barley.
 
-As if spray-painted black by an anti-horticultural prankster, each blade reflected the moonlight in its own peculiar way. 
+As if spray-painted black by an anti-horticultural prankster, each blade reflected the moonlight in its own peculiar way.
 
 
 
 															- 4 -
 
-Aeve was saving the world. Well, that’s the impression she gave her family whenever they smirked at her vocabulary, when she’d casually drop words into a conversation like 'graminoid', 'forb' or ‘genetic mutation’. It was far easier to pretend that her job was saving the planet than it was to have to describe precisely what was involved.
+Aeve was saving the world. Well, that’s the impression she gave her family whenever they smirked at her vocabulary, when she’d casually drop words into a conversation like 'graminoid', 'forb' or ‘genetic mutation’. It was far easier to pretend that her job was saving the planet than it was to have to describe precisely what she did day to day.
 
-She often found it difficult and sometimes even stressful to communicate with people that weren’t biologists, for people that had never heard of the Sahel, for folks that couldn’t tell their forbs from their graminoids or point to the capital of Ethiopia on a map of the world.
+She often found it difficult and even stressful to communicate with people that weren’t biologists, for people that had never heard of the Sahel, for folks that couldn’t tell their forbs from their graminoids or point to the capital of Ethiopia on a map of the world.
 
 “Hi,” she’d often begin struggling, flailing, desperately hoping to explain during a party at a friend’s place or on a date. What was it *precisely* that she did for a living? 
 
 “I’m a genetic scientist and so, well, I build plants for a living.” That was the simplest way she could describe things. Date-guy would usually get a minus point if he let this vague, immediate answer fulfil his curiosity.
 
-“Most of my time is spent at seed banks, like the one at Kew Gardens just around the corner. I research the genetic structures of the million or so plants that they archive and, with this information, I try to solve really interesting problems. Mostly these are agricultural issues and lately I’ve been working with an international research team from Africa, Europe and Asia.”
+“Most of my time is spent at seed banks, like the one at Kew Gardens just around the corner. I research the genetic structures of the million or so plants that they archive and, with this information, I try to solve really interesting problems. Mostly these are agricultural issues and lately I’ve been working with an international research team from the states, Africa, Europe and Asia.”
 
 This was the key moment for date-guy, because it’s here where Aeve would be inextricably propelled by her own excitement. Her curiosity in the field was boundless; she’d happily talk about plants and ecosystems, fossilised vegetation in different parts of the world, foreign habitats, environmental sustainability and the moral arguments challenging her work in genetics.
 
@@ -140,7 +140,7 @@ Aeve: “ok, so the Sahelian Kingdom is this thin stretch of land that criss-cro
 
 Four date-guys had managed to reach this point in the conversation.
 
-“It’s a process called desertification. Land erosion, poor agriculture and all sorts of other problems means environmental devastation on a scale that’s almost unimaginable. But it’s not just a cause for hippies to get angsty, it’s not just another cause for them to fly their flags, it’s a life-and-death situation for the people trying to make a living there. And, ultimately if they can no longer grow crops or build large architectural structures like hospitals and schools any more then we’ll find millions of people migrating to the south.”
+“It’s a process called desertification. Land erosion, poor agriculture and all sorts of other problems means environmental devastation on a scale that’s almost unimaginable. But it’s not just a cause for hippies to get angsty and it’s not just another capital-M ‘Movement’ for them to fly their flags, it’s a life-and-death situation for the people trying to make a living out there. And, ultimately if they can no longer grow crops or build large architectural structures like hospitals and schools any more then we’ll find millions of people migrating to the south.”
 
 Two date guys had recently struck out around this point, one of them glanced around the restaurant apathetically before clearly staring directly at her chest. Neither had any interest in contributing to the conversation, but Aeve was familiar with getting excited about things and watching a person stand dumbfounded before her.
 
@@ -150,6 +150,8 @@ Two date guys had recently struck out around this point, one of them glanced aro
 ‘Folks aren’t kidding when they call these rainforests the *Lungs of the World*
 
 Only one guy had exhausted Aeve’s imagination, contributing to her rambling diatribe with questions, jokes and serious looks of anxiety.
+
+Over the coming months Aeve felt that she wanted to hold onto the sails of his unrelenting, full-bodied laughter, safeguarding each and every moment in a glassy bottle. With her own hands she’d build a storehouse to keep these bottles safe, as they would need to be catalogued by time, place and origin so she could revisit them in the future; they’d need archivin, indexing and maintenance. She decided she would spend the rest of her career building a lirbary to record that indistinguishable laughter. This date-guy was smart, funny and best of all, he had an easy smile.
 
 
 
@@ -256,21 +258,23 @@ We’ll need to manually open them. Grab your coat.
 
 ***
 
-Sam asks her: “So. Where was it?”
+Aeve asks Cathy: “So. Where was it?”
 
-“Where was who?“ Aeve asked.
+“Where was what?“ Cathy asked.
 
-“Google, Apple or Facebook?,” Sam asked, his eyes shining brightly. ”Who did you turn down to come work all the way out here?”
+“Google, Apple or Facebook?,” Aeve asked, her eyes shining brightly. ”Who did you turn down to come work all the way out here?”
 
-Aeve later found out that this was the First Question in these academic circles. 
+Cathy later found that this was the First Question in these poorly paid academic circles. 
 
-“Oh, for me it was Google. I toured their offices to see what it might feel like to work at their London HQ. They wanted to ship me in from Canada to kickstart a small research team to help flesh out Maps. The offices were absurd though; the whole place looked like it was a haunted house with a sort of nautical theme going on. The doors all looked like submarine hatches, there were giant lights hanging from the ceiling with ropes tying them all together and hardly anyone seemed to be, ya know, working.” Although, they must work particularly hard, Aeve thought – the salary she had been offered was absurd. It was more than five times what she had been paid by the university the year before. 
+“Oh, for me it was Google. I toured their offices to see what it might feel like to work at their London HQ. They wanted to ship me in to kickstart a small research team to help flesh out Maps. The offices were absurd though; the whole place looked like it was a haunted house with a sort of nautical theme going on. The doors all looked like submarine hatches, there were giant lights hanging from the ceiling with ropes tying them all together and hardly anyone seemed to be, ya know, working.” Although, they must work particularly hard, Cathy mentioned – the salary she had been offered was laughably absurd. It was more than five times what she had been earning in her freelance work the year before. 
 
 “Ya know, I looked around the place and tried to picture myself there in five years time. I tried to find myself in the eyes of all those white, hoody wearing, sarcastic twenty year old dudes that stalked the halls and, well, I couldn’t do it. How about you guys?”
 
-Aeve found that Sam had worked at Foursquare in New York for a while. After completing his computer science degree in Brazil he emigrated to the states. Felix had been working on a secret renewable energy service with a company in Mountain View, but Aeve could never figure out much more than that. Felix always described his work before BioLife like he was reading the blurb of a clandestine document that went *way* above Aeve’s security clearance.
+Sam bailed from Foursquare in New York. After completing his computer science degree in Brazil he emigrated to the states before finding work at an agency called ‘#coolwork’. Hendrik had worked on a secret renewable energy service with a company in Mountain View, but Aeve could never figure out much more than that. Hendrik always described his work like he was reading the blurb of a clandestine document that went *way* above Aeve’s security clearance.
 
-This introduction to the team is what made these people a team. In one way or another they had shunned Silicon Valley and Wall Street of all its wealth and opulence, they had relegated all the hackathons and four day work weeks to a corner. They had thrown their six figure pay checks and five star vacations out the window and bid adieu to free gyms, free meals, free parking, free WiFi, free access to the smartest people in the startup world. They were left with something so much more profound, something that they all shared between one another. Each of them was standing on a financial and emotional iceberg together, each of them dependent on the others to survive.
+This introduction to the team is what made these people a team. In one way or another they had shunned Silicon Valley and Wall Street of all its wealth and opulence, they had abandoned all the hackathons, the four day work weeks and the fridges full of beer. They had thrown their six figure pay checks and five star vacations out the window and bid adieu to free gyms, free meals, free parking, free WiFi, free access to the smartest people in the startup world. They were left with something so much more profound, something that they all shared between one another. 
+
+Each of them was standing on a financial and emotional iceberg together, each of them dependent on the others to survive.
 
 
 
