@@ -2,9 +2,43 @@
 // UTILITIES 
 // ========================================================================== 
 
-.u-hideText {
+$baseFontSize: 16;
+
+@mixin hideText() {
     text-indent: 100%;
     white-space: nowrap;
     overflow: hidden;
 }
+
+@function strip-unit($num) {
+  @return $num / ($num * 0 + 1);
+}
+
+@mixin remCalc($property, $values...){
+    $max: length($values);
+    $pxValues: '';
+    $remValues: '';
+    
+    @for $i from 1 through $max {
+        $value: strip-unit(nth($values, $i));
+        $pxValues: #{$pxValues + $value}px;
+    
+        @if $i < $max {
+            $pxValues: #{$pxValues + " "};
+        }
+    }
+
+    @for $i from 1 through $max {
+        $value: strip-unit(nth($values, $i));
+        $remValues: #{$remValues + ($value / $baseFontSize)}rem;
+        
+        @if $i < $max {
+            $remValues: #{$remValues + " "};
+        }
+    }    
+        
+    #{$property}: $pxValues;
+    #{$property}: $remValues;
+}
+
 
