@@ -1,0 +1,34 @@
+composer.lock
+/vendor
+/web/static/css/
+
+/site/cache
+site/cache/7ecb9812e507ad9f91804947318ab2f9.php
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# Stylesheets #
+##############
+*.scssc
+css
+
+
+# Build #
+##############
+/build
+node_modules
+/fonts
+
+app/_cache/
+.htaccess
+config.ru
+
+/design
+
+*.rb
+license.mdown
+*.sublime-project
+*.sublime-workspace
