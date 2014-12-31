@@ -1,10 +1,14 @@
+@import "base/reset";
+@import "utilities/utils";
+
 * {
     -webkit-font-smoothing: antialiased;
     box-sizing: border-box;
 }
 
-* + * {
-    margin-bottom: 40px;
+* + *, 
+.Longform > * + * {
+    margin-top: 40px;
 }
 
 html {
@@ -14,11 +18,11 @@ html {
 body {
     float: left;
     width: 100%;
-    font-family: "Nocturno Regular 25";
     font-style: normal;
     font-weight: normal;
     font-stretch: normal;
-    font-size: 21px;
+    font: 400 125% "Nocturno Regular 25", Georgia, serif;
+    line-height: 1.45;
     padding: 0;
     margin: 0;
     border-top: 15px solid #111;
@@ -91,12 +95,14 @@ em, small, .Heading-sub {
     }
 }
 
-.Longform p:first-of-type:first-letter {
+.Longform p:first-of-type:first-letter, 
+.Longform h2 + p:first-letter {
     font-size: 3.9rem;
     float: left;
     margin-top: 22px;
     line-height: .4;
     padding-right: 5px;
+    font-family: "Nocturno Display Medium 3";
 
     .Container-dark & {
         color: white;
@@ -115,12 +121,31 @@ p {
 }
 
 /*/////////////////////////////////////////////////*/
-/* CHECKLIST TOGGLER */
+/* NIGHT TOGGLER */
 /*/////////////////////////////////////////////////*/
-.cmn-toggle {
+.NightToggler {
     position: absolute;
-    margin-left: -9999px;
-    visibility: hidden;
+    top: 40px;
+    right: 40px;
+    width: 160px;
+
+    &:before {
+        @extend .caps;
+        content: "Night mode";
+        vertical-align: middle;
+        float: left;
+        margin-top: 3px; 
+        font-size: 16px;
+        color: #888;
+    }
+}
+
+.NightToggler-element {
+    display: none;
+}
+
+.NightToggler-label {
+    float: right;
 }
 
 .cmn-toggle + label {
@@ -130,23 +155,18 @@ p {
     outline: none;
     user-select: none;
     color: #EFEFEF;
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -khtml-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
     user-select: none;
 }
 
-input.cmn-toggle-round + label {
+input.cmn-toggle + label {
   padding: 2px;
   width: 60px;
   height: 30px;
   background-color: #dddddd;
   border-radius: 60px;
 }
-input.cmn-toggle-round + label:before,
-input.cmn-toggle-round + label:after {
+input.cmn-toggle + label:before,
+input.cmn-toggle + label:after {
   display: block;
   position: absolute;
   top: 1px;
@@ -155,7 +175,7 @@ input.cmn-toggle-round + label:after {
   content: "";
 }
 
-input.cmn-toggle-round + label:before {
+input.cmn-toggle + label:before {
   right: 1px;
   background-color: #f1f1f1;
   border-radius: 60px;
@@ -163,16 +183,18 @@ input.cmn-toggle-round + label:before {
 }
 
 /* the circle */
-input.cmn-toggle-round + label:after {
-  width: 30px;
+input.cmn-toggle + label:after {
+  width: 28px;
   background-color: #fff;
   border-radius: 100%;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   transition: margin 0.4s;
 }
-input.cmn-toggle-round:checked + label:before {
-  background-color: #8ce196;
+
+input.cmn-toggle:checked + label:before, 
+input.cmn-toggle:checked + label {
+  background-color: #3D9970;
 }
-input.cmn-toggle-round:checked + label:after {
+input.cmn-toggle:checked + label:after {
   margin-left: 30px;
 }
