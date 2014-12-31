@@ -53,11 +53,11 @@ body {
     }
 
     @include respond-to("between large and largest"){
-        line-height: 1.5;
+        line-height: 1.45;
     }
 
     @include respond-to("largest only"){
-        line-height: 1.45;
+        line-height: 1.55;
     }
     
     // View MQ helper
@@ -239,8 +239,8 @@ em, small, .Heading-sub {
     }
 
     @include respond-to("largest only"){
-        @include remCalc(margin-top, 20);
-        @include remCalc(font-size, 60);
+        @include remCalc(margin-top, 21);
+        @include remCalc(font-size, 64);
     }
 
     .Container-dark & {
@@ -254,6 +254,7 @@ em, small, .Heading-sub {
 
 .Header {
     margin-bottom: 200px;
+    margin-top: 60px;
 }
 
 /*/////////////////////////////////////////////////*/
