@@ -44,7 +44,7 @@ body {
     font-weight: normal;
     font-stretch: normal;
     font: 400 110% "Nocturno Regular 25", Georgia, serif;
-    line-height: 1.4;
+    line-height: 1.45;
     border-top: 15px solid #111;
     border-bottom: 15px solid #111;
 
@@ -53,11 +53,11 @@ body {
     }
 
     @include respond-to("between large and largest"){
-        line-height: 1.45;
+        line-height: 1.5;
     }
 
     @include respond-to("largest only"){
-        line-height: 1.55;
+        line-height: 1.6;
     }
     
     // View MQ helper
@@ -98,10 +98,10 @@ body {
 }
 
 ::selection {
-  background: rgba(61,153,112, .7);
+  background: rgba(61,153,112, .5);
 }
 ::-moz-selection {
-  background: rgba(61,153,112, .7);
+  background: rgba(61,153,112, .5);
 }
 
 h1 {
@@ -132,7 +132,7 @@ em, small, .Heading-sub {
     font-size: 17px;
 }
 
-.caps {
+.caps, abbr {
     font-family: "Nocturno Regular 26";
     font-style: normal;
     font-weight: normal;
@@ -154,14 +154,18 @@ em, small, .Heading-sub {
     }
 
     @include respond-to("large and above"){
+        @include remCalc(padding, 0, 60);
+    }
+
+    @include respond-to("largest only"){
         @include remCalc(padding, 0, 70);
     }
 }
 
 .Container-dark {
     background-color: #202020;
-    color: #cecece;
-    border-color: #282828;
+    color: #B8B8B8;
+    border-color: #252525;
     border-top: none;
     border-bottom: none;
 }
@@ -171,15 +175,20 @@ em, small, .Heading-sub {
     border-top: none;
     border-bottom: none;
     background-color: #efefef;
-    color: #222222;    
+    color: #444;    
 }
 
 .Wrapper {
     margin: 0 auto;
     @include remCalc(max-width, 440);
+    
+
+    @include respond-to("small and above"){
+        @include remCalc(max-width, 470);
+    }
 
     @include respond-to("medium and above"){
-        max-width: 32em;
+        max-width: 33em;
     }
 
     @include respond-to("large and above"){
@@ -187,7 +196,7 @@ em, small, .Heading-sub {
     }
 
     @include respond-to("largest only"){
-        max-width: 40em;
+        @include remCalc(max-width, 730);
     }
 }
 
@@ -199,19 +208,15 @@ em, small, .Heading-sub {
 
     > p {
         -webkit-hyphens:auto;
-        -webkit-hyphenate-character:"\2010";
         -webkit-hyphenate-limit-after:2;
         -webkit-hyphenate-limit-before:3;
         hyphens: auto;
+        @include remCalc(font-size, 19);
 
-        @include respond-to("medium and above"){
-            @include remCalc(font-size, 18);
-        }
-
-        @include respond-to("large and above"){
+        @include respond-to("small and above"){
             @include remCalc(font-size, 19);
         }
-
+    
         @include respond-to("between large and largest"){
             @include remCalc(font-size, 20);
         }
@@ -226,7 +231,7 @@ em, small, .Heading-sub {
 // Drop cap
 .Longform p:first-of-type:first-letter, 
 .Longform h2 + p:first-letter {
-    @include remCalc(font-size, 49);
+    @include remCalc(font-size, 55);
     @include remCalc(margin-top, 18);
     float: left;
     line-height: .4;
@@ -239,16 +244,16 @@ em, small, .Heading-sub {
     }
 
     @include respond-to("largest only"){
-        @include remCalc(margin-top, 21);
-        @include remCalc(font-size, 64);
+        @include remCalc(margin-top, 22);
+        @include remCalc(font-size, 65);
     }
 
     .Container-dark & {
-        color: #fff;
+        color: #B8B8B8;
     }
 
     .Container-light & {
-        color: #000;
+        color: #333;
     }
 }
 
