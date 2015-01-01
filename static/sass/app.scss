@@ -196,7 +196,7 @@ em, small, .Heading-sub {
     }
 
     @include respond-to("largest only"){
-        @include remCalc(max-width, 730);
+        @include remCalc(max-width, 735);
     }
 }
 
