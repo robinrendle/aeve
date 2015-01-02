@@ -12,10 +12,31 @@
     <link rel="author" href="https://plus.google.com/+RobinRendle">
 
     <style>
-    h1.Example{
-        font-size: 25px;
-        color: #3D9970;
-    }
+        h1.Example{
+            font-size: 25px;
+            color: #3D9970;
+        }
+
+        .Color-container {
+            float: left;
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .Color {
+            height: 100px;
+            width: 100px;
+            float: left;
+            margin-right: 20px;
+            margin-bottom: 20px; 
+            background-color: #ddd;
+            margin-top: 0;
+        }
+        .Color--black {
+            background-color: #444;
+        }
+        .Color--green {
+            background-color: #3D9970;
+        }
     </style>
 </head>
 
@@ -159,6 +180,16 @@ for (i = 0; i < divs.length; ++i) {
             <dt>Definition List Term 3</dt>
             <dd>This is a definition list description.</dd>
         </dl>
+
+        <hr />
+
+        <h1 class="Example" id="tables">Colors</h1>
+        
+        <div class="Color-container">
+            <div class="Color Color--green"></div>
+            <div class="Color Color--black"></div>
+            <div class="Color"></div>
+        </div>
 
         <hr />
 

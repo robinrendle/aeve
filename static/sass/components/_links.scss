@@ -9,7 +9,7 @@ a {
 
     &:hover {
         color: darken(#3D9970, 10);
-        border-bottom: 3px double #bbb;
+        border-bottom: 4px double #bbb;
     }
 
     &:active {
@@ -23,7 +23,7 @@ a {
 
         &:hover {
             color: #888;
-            border-bottom: 3px double #3D9970;
+            border-bottom: 4px double #3D9970;
         }
     }
 }
