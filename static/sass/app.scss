@@ -39,14 +39,18 @@ body {
     // Lazy clearfix 
     float: left;
     width: 100%;
-
+    color: #444;
     font-style: normal;
     font-weight: normal;
     font-stretch: normal;
     font: 400 110% "Nocturno Regular 25", Georgia, serif;
     line-height: 1.45;
     border-top: 15px solid #111;
-    border-bottom: 15px solid #111;
+    border-bottom: 15px solid #fff;
+
+    &.is-darkMode {
+        color: #aaa;
+    }
 
     @include respond-to("medium and above"){
         line-height: 1.55;
@@ -56,8 +60,12 @@ body {
         line-height: 1.5;
     }
 
+    @media only screen and (max-device-width: 768px) {
+        line-height: 1.55;
+    }
+
     @include respond-to("largest only"){
-        line-height: 1.6;
+        line-height: 1.55;
     }
     
     // View MQ helper
@@ -101,7 +109,7 @@ body {
   background: rgba(61,153,112, .5);
   color: rgba(0,0,0,.8);
 
-    .Container-dark & {
+    .is-darkMode & {
         color: rgba(255,255,255,.5);
     }
 }
@@ -109,7 +117,7 @@ body {
 ::-moz-selection {
   background: rgba(61,153,112, .5);
   color: rgba(0,0,0,.8);
-    .Container-dark & {
+    .is-darkMode & {
         color: rgba(255,255,255,.5);
     }
 }
@@ -147,12 +155,14 @@ em, small {
 .Container {
     float: left;
     width: 100%;
-    margin: 0;
     transition: background-color 0.2s;
+    background-color: #efefef;
+    margin: 0;
     @include remCalc(padding, 0, 15, 50, 15);
 
     @include respond-to("medium and above"){
-        border: 15px solid;
+        border-left: 15px solid #fff;
+        border-right: 15px solid #fff;
         @include remCalc(padding, 0, 50, 100, 50);
     }
 
@@ -163,23 +173,14 @@ em, small {
     @include respond-to("largest only"){
         @include remCalc(padding, 0, 70, 100, 70);
     }
-}
 
-.Container-dark {
-    background-color: #202020;
-    color: #B8B8B8;
-    border-color: #252525;
-    border-top: none;
-    border-bottom: none;
-    transition: border-color .2s ease-out;
-}
-
-.Container-light {
-    border-color: #fff;
-    border-top: none;
-    border-bottom: none;
-    background-color: #efefef;
-    color: #444;
+    .is-darkMode & {
+        background-color: #202020;
+        border-color: #252525;
+        border-top: none;
+        border-bottom: none;
+        transition: border-color .2s ease-out;
+    }
 }
 
 .Wrapper {
@@ -188,7 +189,7 @@ em, small {
     
 
     @include respond-to("small and above"){
-        @include remCalc(max-width, 470);
+        @include remCalc(max-width, 485);
     }
 
     @include respond-to("medium and above"){
@@ -200,7 +201,7 @@ em, small {
     }
 
     @include respond-to("largest only"){
-        @include remCalc(max-width, 735);
+        @include remCalc(max-width, 745);
     }
 }
 
@@ -225,7 +226,7 @@ em, small {
         }
     
         @include respond-to("between large and largest"){
-            @include remCalc(font-size, 20);
+            @include remCalc(font-size, 20); 
         }
 
         @include respond-to("largest only"){
@@ -245,6 +246,7 @@ em, small {
     padding-right: 5px;
     font-family: "Nocturno Display Medium 3";
     transition: color 5s;
+    color: #333;
 
     @include respond-to("medium and above"){
         @include remCalc(margin-top, 19);
@@ -256,12 +258,8 @@ em, small {
         @include remCalc(font-size, 65);
     }
 
-    .Container-dark & {
+    .is-darkMode & {
         color: #B8B8B8;
-    }
-
-    .Container-light & {
-        color: #333;
     }
 }
 
@@ -276,7 +274,7 @@ em, small {
     color: #333;
     line-height: 1;
 
-    .Container-dark & {
+    .is-darkMode & {
         color: #B8B8B8;
     }
 }
@@ -293,7 +291,7 @@ em, small {
     font-stretch: normal;
     color: #888;
 
-    .Container-dark & {
+    .is-darkMode & {
         transition: border-color .05s ease-out; 
         border-top: 1px solid #353535;
         border-bottom: 1px solid #353535;
