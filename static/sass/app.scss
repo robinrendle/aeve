@@ -99,37 +99,40 @@ body {
 
 ::selection {
   background: rgba(61,153,112, .5);
+  color: rgba(0,0,0,.8);
+
+    .Container-dark & {
+        color: rgba(255,255,255,.5);
+    }
 }
+
 ::-moz-selection {
   background: rgba(61,153,112, .5);
+  color: rgba(0,0,0,.8);
+    .Container-dark & {
+        color: rgba(255,255,255,.5);
+    }
 }
 
 h1 {
+    @include remCalc(font-size, 50);
+    line-height: 1.2;
     margin-bottom: 0;
     font-family: "Nocturno Display Medium 3";
     font-style: normal;
     font-weight: normal;
     font-stretch: normal;
-    font-size: 40px;
 
     @include respond-to("medium and above"){
-        font-size: 60px;
+        @include remCalc(font-size, 70);
     }
 }
 
-em, small, .Heading-sub {
+em, small {
     font-family: "Nocturno Regular Italic 24";
     font-style: normal;
     font-weight: normal;
     font-stretch: normal;
-}
-
-.Heading-sub {
-    color: #888;
-    margin: 0;
-    padding: 0;
-    font-weight: normal;
-    font-size: 17px;
 }
 
 .caps, abbr {
@@ -146,19 +149,19 @@ em, small, .Heading-sub {
     width: 100%;
     margin: 0;
     transition: background-color 0.2s;
-    @include remCalc(padding, 0, 15);
+    @include remCalc(padding, 0, 15, 50, 15);
 
     @include respond-to("medium and above"){
         border: 15px solid;
-        @include remCalc(padding, 0, 50);
+        @include remCalc(padding, 0, 50, 100, 50);
     }
 
     @include respond-to("large and above"){
-        @include remCalc(padding, 0, 60);
+        @include remCalc(padding, 0, 60, 100, 60);
     }
 
     @include respond-to("largest only"){
-        @include remCalc(padding, 0, 70);
+        @include remCalc(padding, 0, 70, 100, 70);
     }
 }
 
@@ -168,6 +171,7 @@ em, small, .Heading-sub {
     border-color: #252525;
     border-top: none;
     border-bottom: none;
+    transition: border-color .2s ease-out;
 }
 
 .Container-light {
@@ -175,7 +179,7 @@ em, small, .Heading-sub {
     border-top: none;
     border-bottom: none;
     background-color: #efefef;
-    color: #444;    
+    color: #444;
 }
 
 .Wrapper {
@@ -202,8 +206,11 @@ em, small, .Heading-sub {
 
 .Longform {    
     h2 {
+        @extend .caps;
+        @include remCalc(font-size, 19);
         text-align: center;
         margin-top: 200px;
+        font-weight: normal;
     }
 
     > p {
@@ -240,7 +247,8 @@ em, small, .Heading-sub {
     transition: color 5s;
 
     @include respond-to("medium and above"){
-        @include remCalc(font-size, 58);
+        @include remCalc(margin-top, 19);
+        @include remCalc(font-size, 60);
     }
 
     @include respond-to("largest only"){
@@ -257,9 +265,39 @@ em, small, .Heading-sub {
     }
 }
 
+// initial styles for the header module
 .Header {
     margin-bottom: 200px;
     margin-top: 60px;
+}
+
+.Header-title {
+    @include remCalc(margin-bottom, 5);
+    color: #333;
+    line-height: 1;
+
+    .Container-dark & {
+        color: #B8B8B8;
+    }
+}
+
+// the bar that separates the title from the illustration
+.Header-info {
+    @include remCalc(padding, 5, 0);
+    @include remCalc(font-size, 17);
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    font-family: "Nocturno Regular Italic 24";
+    font-style: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    color: #888;
+
+    .Container-dark & {
+        transition: border-color .05s ease-out; 
+        border-top: 1px solid #353535;
+        border-bottom: 1px solid #353535;
+    }
 }
 
 /*/////////////////////////////////////////////////*/
