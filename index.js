@@ -1,18 +1,17 @@
 (function(){
 document.addEventListener("DOMContentLoaded", function(){
     var checkbox = document.querySelector(".NightToggler-element"),
+        body = document.body,
         switcher = document.querySelector(".NightToggler-label"),
-        el = document.querySelector('div[data-nightMode]'),
-        dayClass = "Container-light",
-        nightClass = "Container-dark";
+        nightClass = "is-darkMode";
+
+        checkbox.checked = false; // reset checkbox
 
     switcher.addEventListener("click", function(){
         if (checkbox.checked != true) {
-            el.classList.add(nightClass);
-            el.classList.remove(dayClass);
+            body.classList.toggle(nightClass);
         } else {
-            el.classList.remove(nightClass);
-            el.classList.add(dayClass);
+            body.classList.remove(nightClass);
         }
     }, false);
 
