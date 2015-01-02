@@ -11,7 +11,10 @@
 
 @import "base/reset";
 
-@import "utilities/utils";
+@import "utilities/utils"; // Handy functions
+
+@import "components/hierarchy"; // Typesetting
+@import "components/links";
 
 $baseUnit: 25;
 
@@ -22,8 +25,7 @@ $baseUnit: 25;
     -moz-osx-font-smoothing: grayscale;
 }
 
-* + *, 
-.Longform > * + * {
+* + * {
     @include remCalc(margin-top, $baseUnit);
 
     @include respond-to("large and above"){
@@ -40,36 +42,19 @@ body {
     float: left;
     width: 100%;
     color: #444;
-    font-style: normal;
-    font-weight: normal;
-    font-stretch: normal;
     font: 400 110% "Nocturno Regular 25", Georgia, serif;
-    line-height: 1.45;
+    line-height: 1.55;
     border-top: 15px solid #111;
     border-bottom: 15px solid #fff;
 
     &.is-darkMode {
         color: #aaa;
-    }
-
-    @include respond-to("medium and above"){
-        line-height: 1.55;
-    }
-
-    @include respond-to("between large and largest"){
-        line-height: 1.5;
-    }
-
-    @media only screen and (max-device-width: 768px) {
-        line-height: 1.55;
-    }
-
-    @include respond-to("largest only"){
-        line-height: 1.55;
+        border-bottom: 15px solid #252525;
     }
     
     // View MQ helper
     &:before {
+        @include typeface("Small caps");
         content: "small only";
         position: fixed;
         left: 15px;
@@ -77,11 +62,6 @@ body {
         padding: 5px 10px;
         opacity: .7;
         background-color: #ddd;
-        font-family: "Nocturno Regular 26";
-        font-style: normal;
-        font-weight: normal;
-        font-stretch: normal;
-        text-transform: lowercase;
 
         @include respond-to("small and above"){
             content: "small and above";
@@ -105,6 +85,12 @@ body {
     }
 }
 
+// Dunno if this is a good idea, maybe useful because I’m using
+// the lobotomized owl selector
+.u-killSpacing {
+    margin-top: 0;
+}
+
 ::selection {
   background: rgba(61,153,112, .5);
   color: rgba(0,0,0,.8);
@@ -122,33 +108,35 @@ body {
     }
 }
 
-h1 {
-    @include remCalc(font-size, 50);
-    line-height: 1.2;
-    margin-bottom: 0;
-    font-family: "Nocturno Display Medium 3";
-    font-style: normal;
-    font-weight: normal;
-    font-stretch: normal;
-
-    @include respond-to("medium and above"){
-        @include remCalc(font-size, 70);
-    }
+em, 
+small,
+blockquote > p,
+cite,
+dfn,
+i,
+q {
+    @include typeface("Regular italic");
 }
 
-em, small {
-    font-family: "Nocturno Regular Italic 24";
-    font-style: normal;
+mark {
+    background-color: rgb(255,220,0);
+    background-color: rgba(255,220,0,.5);
     font-weight: normal;
-    font-stretch: normal;
+    color: #333;
 }
 
-.caps, abbr {
-    font-family: "Nocturno Regular 26";
-    font-style: normal;
-    font-weight: normal;
-    font-stretch: normal;
-    text-transform: lowercase;
+.caps, 
+abbr {
+    @include typeface("Small caps");
+}
+
+b,
+strong {
+    @include typeface("Book");
+}
+
+acronym {
+    text-transform: normal;
 }
 
 // Wrapper that gives padding to elements
@@ -211,15 +199,16 @@ em, small {
         @include remCalc(font-size, 19);
         text-align: center;
         margin-top: 200px;
+        margin-bottom: 0;
         font-weight: normal;
     }
 
     > p {
+        @include remCalc(font-size, 19);
         -webkit-hyphens:auto;
         -webkit-hyphenate-limit-after:2;
         -webkit-hyphenate-limit-before:3;
         hyphens: auto;
-        @include remCalc(font-size, 19);
 
         @include respond-to("small and above"){
             @include remCalc(font-size, 19);
@@ -237,14 +226,14 @@ em, small {
 
 
 // Drop cap
-.Longform p:first-of-type:first-letter, 
+.Longform > p:first-of-type:first-letter, 
 .Longform h2 + p:first-letter {
     @include remCalc(font-size, 55);
     @include remCalc(margin-top, 18);
+    @include typeface("Display");
     float: left;
     line-height: .4;
     padding-right: 5px;
-    font-family: "Nocturno Display Medium 3";
     transition: color 5s;
     color: #333;
 
@@ -279,23 +268,29 @@ em, small {
     }
 }
 
-// the bar that separates the title from the illustration
-.Header-info {
+// lines above and below
+.Island--burger {
     @include remCalc(padding, 5, 0);
-    @include remCalc(font-size, 17);
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
-    font-family: "Nocturno Regular Italic 24";
-    font-style: normal;
-    font-weight: normal;
-    font-stretch: normal;
-    color: #888;
+
+    .Longform + & {
+        @include remCalc(margin-top, 50);
+    }
 
     .is-darkMode & {
         transition: border-color .05s ease-out; 
         border-top: 1px solid #353535;
         border-bottom: 1px solid #353535;
     }
+}
+
+// the bar that separates the title from the illustration
+.MetaInfo {
+    @include typeface("Regular italic");
+    @include remCalc(font-size, 17);
+    margin-top: 0;
+    color: #888;
 }
 
 /*/////////////////////////////////////////////////*/
