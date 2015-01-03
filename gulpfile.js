@@ -4,7 +4,8 @@ var gulp = require('gulp'),
     uglify = require('gulp-uglify'),
     uglifycss = require('gulp-uglifycss')
     rename = require('gulp-rename'),
-    eslint = require('gulp-eslint');
+    eslint = require('gulp-eslint'),
+    autoprefixer = require('gulp-autoprefixer');
 
 gulp.task('compass', function(){
     return gulp.src('static/sass/*.scss')
@@ -13,14 +14,17 @@ gulp.task('compass', function(){
             css: 'build/css',
             sass: 'static/sass'
         }))
+        .pipe(autoprefixer({
+            browsers: ['last 2 versions'],
+            cascade: false
+        }))
         .pipe(gulp.dest('build/css'))
         .pipe(concat('style.min.css'))
-        .pipe(gulp.dest('build/css'))
         .pipe(uglifycss())
         .pipe(gulp.dest('build/css'));
 });
 
-gulp.task('lint', function(){
+gulp.task('scripts', function(){
     return gulp.src(['static/js/*.js'])
         .pipe(eslint({
             globals: {
@@ -29,13 +33,16 @@ gulp.task('lint', function(){
             }
         }))
         .pipe(eslint.format())
-        .pipe(eslint.failOnError());
+        .pipe(eslint.failOnError())
+        .pipe(uglify())
+        .pipe(gulp.dest('build/js'));
 });
+
 
 gulp.task('watch', function(){
     gulp.watch('static/sass/**/*.scss', ['compass']);
     gulp.watch('static/sass/*.scss', ['compass']);
-    gulp.watch('static/js/app.js',['lint']);
+    gulp.watch('static/js/app.js',['scripts']);
 });
 
 gulp.task('default', ['compass', 'watch']);
