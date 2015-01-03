@@ -1,17 +1,16 @@
 Maybe Cathy is the one that starts to challenge Aeve – to get her to admit that maybe this isn’t a great idea – that’s its changing Mali forever.
 
 It was precisely what she needed because waiting for the Ping pong beacon to return its signal was sickly, heartbreaking, incurable.
+
 ---
 
-“Mali is never going to look the same again. What happens to the wildlife here? How will the changes that we’ve made effect their diet and their habitat?”
+Lately Aeve’s dreams had taken place across the surface of a pearlescent desk where she sat in a spotlight being interrogated by her mother: “What effect might this plant have on the long-term ecosystem? Where is your research!” she’d scream, tearing apart Aeve’s graminoids on the table whilst her considerable ropes of hair twirled and tightened in slow motion around her. “What right have you to invade this country and ask them for your trust?” Compared to the gentle mother that had raised her, this possessed figure, this demonic dream-mother was overrun with terrifying violence and rage. Yet slipping away, the dream would retreat into the dark with quiet, soft, guilt-ridden whispers that would remind Aeve to call her ageing father.
 
-[Aeve is reluctant to admit that she cares less about the people and more about winning the Nobel Peace Prize]
+---
 
-“This was the best idea available.”
+All of a sudden, in a flash, Aeve’s work was now unfamiliar to her. Cornered at all sides by her Saharan nemesis, the landscape was nothing more than a shadow of the heavens above; networks faded, the beacon flittered in the dusk and an ocean plain of wilting charcoal solemnly waved her goodbye.
 
-“No, this was the only idea.”
-
-
+---
 
 
 
