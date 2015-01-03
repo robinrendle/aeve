@@ -33,9 +33,28 @@ $baseUnit: 25;
     }
 }
 
-html {
-    font-size: 100%;
+@keyframes opacityChange {
+    0% {
+        display: none;
+        opacity: 0;
+    }
+    1% {
+        display: block;
+        opacity: 0;
+    }
+    100% {
+        display: block;
+        opacity: 1;
+    }
 }
+
+html {
+    opacity: 0;
+    font-size: 100%;
+    animation: opacityChange .4s ease-in;
+    animation-fill-mode: forwards;
+}
+
 
 body {
     // Lazy clearfix 
@@ -82,6 +101,11 @@ body {
         @include respond-to("largest only"){
             content: "largest only";
         }
+
+        @include respond-to("gigantic"){
+            content: "gigantic";
+        }
+
     }
 }
 
@@ -92,19 +116,22 @@ body {
 }
 
 ::selection {
-  background: rgba(61,153,112, .5);
-  color: rgba(0,0,0,.8);
+    background: rgba(61,153,112, .35);
+    color: #333;
 
     .is-darkMode & {
-        color: rgba(255,255,255,.5);
+        background-color: rgba(61,153,112,0.3);
+        color: rgba(255,255,255,.7);
     }
 }
 
 ::-moz-selection {
-  background: rgba(61,153,112, .5);
-  color: rgba(0,0,0,.8);
+    background: rgba(61,153,112, .35);
+    color: #333;
+
     .is-darkMode & {
-        color: rgba(255,255,255,.5);
+        background-color: rgba(61,153,112,0.3);
+        color: rgba(255,255,255,.7);
     }
 }
 
@@ -120,9 +147,9 @@ q {
 
 mark {
     background-color: rgb(255,220,0);
-    background-color: rgba(255,220,0,.5);
+    background-color: rgba(255,220,0,.3);
     font-weight: normal;
-    color: #333;
+    color: #444;
 }
 
 .caps, 
@@ -133,18 +160,18 @@ abbr {
 b,
 strong {
     @include typeface("Book");
+    color: #222;
 }
 
 acronym {
     text-transform: normal;
 }
 
-// Wrapper that gives padding to elements
 .Container {
     float: left;
     width: 100%;
-    transition: background-color 0.2s;
     background-color: #efefef;
+    transition: background-color .5s ease-out;
     margin: 0;
     @include remCalc(padding, 0, 15, 50, 15);
 
@@ -167,7 +194,7 @@ acronym {
         border-color: #252525;
         border-top: none;
         border-bottom: none;
-        transition: border-color .2s ease-out;
+        transition: all .1s ease-out;
     }
 }
 
@@ -189,7 +216,15 @@ acronym {
     }
 
     @include respond-to("largest only"){
-        @include remCalc(max-width, 745);
+        @include remCalc(max-width, 725);
+    }
+
+    @include respond-to("gigantic"){
+        @include remCalc(max-width, 765);
+    }
+    
+    @include respond-to("widescreen"){
+        @include remCalc(max-width, 780);
     }
 }
 
@@ -204,23 +239,10 @@ acronym {
     }
 
     > p {
-        @include remCalc(font-size, 19);
         -webkit-hyphens:auto;
         -webkit-hyphenate-limit-after:2;
         -webkit-hyphenate-limit-before:3;
         hyphens: auto;
-
-        @include respond-to("small and above"){
-            @include remCalc(font-size, 19);
-        }
-    
-        @include respond-to("between large and largest"){
-            @include remCalc(font-size, 20); 
-        }
-
-        @include respond-to("largest only"){
-            @include remCalc(font-size, 21);
-        }
     }
 }
 
@@ -271,17 +293,20 @@ acronym {
 // lines above and below
 .Island--burger {
     @include remCalc(padding, 5, 0);
+    transition: border-color .3s ease-out; 
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
+    color: #777;
 
     .Longform + & {
         @include remCalc(margin-top, 50);
     }
 
     .is-darkMode & {
+        color: #888;
         transition: border-color .05s ease-out; 
-        border-top: 1px solid #353535;
-        border-bottom: 1px solid #353535;
+        border-top: 1px solid #444;
+        border-bottom: 1px solid #444;
     }
 }
 
@@ -310,6 +335,10 @@ acronym {
         margin-top: 3px; 
         font-size: 16px;
         color: #888;
+    }
+
+    .no-js & {
+        opacity: 0;
     }
 }
 

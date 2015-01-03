@@ -126,4 +126,8 @@ p {
         @include remCalc(font-size, 21);
         line-height: 1.55;
     }
+
+    @include respond-to("gigantic"){
+        @include remCalc(font-size, 22);
+    }
 }
