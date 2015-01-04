@@ -23,6 +23,8 @@ $baseUnit: 25;
     box-sizing: border-box;
     -webkit-text-size-adjust: 100%;
     -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
 }
 
 * + * {
@@ -60,14 +62,16 @@ body {
     // Lazy clearfix 
     float: left;
     width: 100%;
+    //
     color: #444;
     font: 400 110% "Nocturno Regular 25", Georgia, serif;
     line-height: 1.55;
-    border-top: 15px solid #111;
+    border-top: 15px solid #fff;
     border-bottom: 15px solid #fff;
 
     &.is-darkMode {
         color: #aaa;
+        border-top: 15px solid #252525;
         border-bottom: 15px solid #252525;
     }
     
@@ -137,12 +141,22 @@ body {
 
 em, 
 small,
-blockquote > p,
 cite,
 dfn,
 i,
 q {
     @include typeface("Regular italic");
+}
+
+q, 
+blockquote {
+    position: relative;
+
+    &:before {
+        content: open-quote;
+        position: absolute;
+        left: -7px;
+    }
 }
 
 mark {
@@ -198,6 +212,7 @@ acronym {
     }
 }
 
+// In lieu of a grid system this will do for now.
 .Wrapper {
     margin: 0 auto;
     @include remCalc(max-width, 440);
@@ -238,41 +253,81 @@ acronym {
         font-weight: normal;
     }
 
-    > p {
+    p {
+        @include typeface("Regular");
         -webkit-hyphens:auto;
         -webkit-hyphenate-limit-after:2;
         -webkit-hyphenate-limit-before:3;
         hyphens: auto;
+        
+        @include respond-to("small and above"){
+            @include remCalc(font-size, 19);
+        }
+
+        @include respond-to("medium and above"){
+            line-height: 1.55;
+        }
+
+        @include respond-to("between large and largest"){
+            @include remCalc(font-size, 20);
+            line-height: 1.5; 
+        }
+
+        @media only screen and (max-device-width: 768px) {
+            line-height: 1.55;
+        }
+
+        @include respond-to("largest only"){
+            @include remCalc(font-size, 21);
+            line-height: 1.55;
+        }
+
+        @include respond-to("gigantic"){
+            @include remCalc(font-size, 22);
+        }
+    }
+
+    & > p:first-of-type:first-letter, 
+    & h2 + p:first-letter {
+        @include remCalc(font-size, 55);
+        @include remCalc(margin-top, 18);
+        @include typeface("Display");
+        float: left;
+        line-height: .4;
+        padding-right: 5px;
+        transition: color 5s;
+        color: #333;
+
+        @include respond-to("medium and above"){
+            @include remCalc(margin-top, 19);
+            @include remCalc(font-size, 60);
+        }
+
+        @include respond-to("between large and largest"){
+            @include remCalc(font-size, 61);
+        }
+
+        @include respond-to("largest only"){
+            @include remCalc(margin-top, 22);
+            @include remCalc(font-size, 62);
+        }
+
+        .is-darkMode & {
+            color: #B8B8B8;
+        }
+    }
+
+    blockquote p {
+        @include typeface("Regular italic");
     }
 }
 
-
-// Drop cap
-.Longform > p:first-of-type:first-letter, 
-.Longform h2 + p:first-letter {
-    @include remCalc(font-size, 55);
-    @include remCalc(margin-top, 18);
-    @include typeface("Display");
-    float: left;
-    line-height: .4;
-    padding-right: 5px;
-    transition: color 5s;
-    color: #333;
-
-    @include respond-to("medium and above"){
-        @include remCalc(margin-top, 19);
-        @include remCalc(font-size, 60);
-    }
-
-    @include respond-to("largest only"){
-        @include remCalc(margin-top, 22);
-        @include remCalc(font-size, 65);
-    }
-
-    .is-darkMode & {
-        color: #B8B8B8;
-    }
+hr {
+    border: none;
+    border-bottom: 1px solid #ccc;
+    @include remCalc(margin-bottom, $baseUnit);
 }
+
 
 // initial styles for the header module
 .Header {
@@ -300,6 +355,10 @@ acronym {
 
     .Longform + & {
         @include remCalc(margin-top, 50);
+    }
+
+    p {
+        margin: 0;
     }
 
     .is-darkMode & {
