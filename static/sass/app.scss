@@ -66,8 +66,11 @@ body {
     color: #444;
     font: 400 110% "Nocturno Regular 25", Georgia, serif;
     line-height: 1.55;
-    border-top: 15px solid #fff;
-    border-bottom: 15px solid #fff;
+
+    @include respond-to("medium and above"){
+        border-top: 15px solid #fff;
+        border-bottom: 15px solid #fff;
+    }
 
     &.is-darkMode {
         color: #aaa;
@@ -284,6 +287,37 @@ acronym {
 
         @include respond-to("gigantic"){
             @include remCalc(font-size, 22);
+        }
+    }
+
+    
+    // DROP CAPS
+    & > p:first-of-type:first-letter, 
+    & h2 + p:first-letter {
+        @include remCalc(font-size, 55);
+        @include remCalc(margin-top, 18);
+        @include typeface("Display");
+        float: left;
+        line-height: .4;
+        padding-right: 5px;
+        color: #333;
+
+        @include respond-to("medium and above"){
+            @include remCalc(margin-top, 19);
+            @include remCalc(font-size, 60);
+        }
+
+        @include respond-to("between large and largest"){
+            @include remCalc(font-size, 62);
+        }
+
+        @include respond-to("largest only"){
+            @include remCalc(margin-top, 20);
+            @include remCalc(font-size, 59);
+        }
+
+        .is-darkMode & {
+            color: #B8B8B8;
         }
     }
     
