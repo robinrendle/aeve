@@ -26,6 +26,13 @@ gulp.task('compass', function(){
 
 gulp.task('scripts', function(){
     return gulp.src(['static/js/*.js'])
+        .pipe(uglify())
+        .pipe(concat('app.min.js'))
+        .pipe(gulp.dest('build/js'));
+});
+
+gulp.task('lint', function(){
+    return gulp.src(['static/js/app.js'])
         .pipe(eslint({
             globals: {
                 'window':true,
@@ -34,15 +41,14 @@ gulp.task('scripts', function(){
         }))
         .pipe(eslint.format())
         .pipe(eslint.failOnError())
-        .pipe(uglify())
-        .pipe(gulp.dest('build/js'));
-});
+})
 
 
 gulp.task('watch', function(){
     gulp.watch('static/sass/**/*.scss', ['compass']);
     gulp.watch('static/sass/*.scss', ['compass']);
     gulp.watch('static/js/app.js',['scripts']);
+    gulp.watch('static/js/app.js',['lint']);
 });
 
-gulp.task('default', ['compass', 'watch']);
+gulp.task('default', ['compass', 'scripts', 'watch']);

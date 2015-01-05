@@ -287,38 +287,19 @@ acronym {
         }
     }
     
-    // DROP CAPS
-    & > p:first-of-type:first-letter, 
-    & h2 + p:first-letter {
-        @include remCalc(font-size, 55);
-        @include remCalc(margin-top, 18);
-        @include typeface("Display");
-        float: left;
-        line-height: .4;
-        padding-right: 5px;
-        color: #333;
-
-        @include respond-to("medium and above"){
-            @include remCalc(margin-top, 19);
-            @include remCalc(font-size, 60);
-        }
-
-        @include respond-to("between large and largest"){
-            @include remCalc(font-size, 62);
-        }
-
-        @include respond-to("largest only"){
-            @include remCalc(margin-top, 20);
-            @include remCalc(font-size, 59);
-        }
-
-        .is-darkMode & {
-            color: #B8B8B8;
-        }
-    }
-
     blockquote p {
         @include typeface("Regular italic");
+    }
+}
+
+.Dropcap {
+    @include typeface("Display");
+    @include remCalc(margin-right, 3);
+    initial-letter: 2;
+    color: #333;
+
+    .is-darkMode & {
+        color: #B8B8B8;
     }
 }
 
