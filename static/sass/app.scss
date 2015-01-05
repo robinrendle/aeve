@@ -231,7 +231,7 @@ acronym {
     }
 
     @include respond-to("largest only"){
-        @include remCalc(max-width, 725);
+        @include remCalc(max-width, 715);
     }
 
     @include respond-to("gigantic"){
@@ -278,15 +278,16 @@ acronym {
         }
 
         @include respond-to("largest only"){
-            @include remCalc(font-size, 21);
-            line-height: 1.55;
+            @include remCalc(font-size, 20);
+            line-height: 1.5;
         }
 
         @include respond-to("gigantic"){
             @include remCalc(font-size, 22);
         }
     }
-
+    
+    // DROP CAPS
     & > p:first-of-type:first-letter, 
     & h2 + p:first-letter {
         @include remCalc(font-size, 55);
@@ -295,7 +296,6 @@ acronym {
         float: left;
         line-height: .4;
         padding-right: 5px;
-        transition: color 5s;
         color: #333;
 
         @include respond-to("medium and above"){
@@ -304,12 +304,12 @@ acronym {
         }
 
         @include respond-to("between large and largest"){
-            @include remCalc(font-size, 61);
+            @include remCalc(font-size, 62);
         }
 
         @include respond-to("largest only"){
-            @include remCalc(margin-top, 22);
-            @include remCalc(font-size, 62);
+            @include remCalc(margin-top, 20);
+            @include remCalc(font-size, 59);
         }
 
         .is-darkMode & {
