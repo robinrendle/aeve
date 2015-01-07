@@ -312,8 +312,8 @@ acronym {
         }
 
         @include respond-to("largest only"){
-            @include remCalc(margin-top, 20);
-            @include remCalc(font-size, 59);
+            @include remCalc(margin-top, 19);
+            @include remCalc(font-size, 62);
         }
 
         .is-darkMode & {
